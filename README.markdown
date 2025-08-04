@@ -19,7 +19,8 @@ This repository is based on the survey paper by Guo et al., which reviews the ap
 ## Overview
 Key challenges and opportunities for LAMs in wireless physical layer applications:
 
-- **[Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)**: Le Liang, Hao Ye, Yucheng Sheng, Ouya Wang, Jiacheng Wang, Shi Jin, and Geoffrey Ye Li.
+- **[Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)**(June 2025): Le Liang, Hao Ye, Yucheng Sheng, Ouya Wang, Jiacheng Wang, Shi Jin, and Geoffrey Ye Li.
+- **[Towards Wireless Native Big AI Model: The Mission and Approach Differ From Large Language Model](https://arxiv.org/abs/2412.09041)**(Dec 2024): Zirui Chen, Zhaoyang Zhang, Chenyu Liu, Ziqing Xing. 
 - **Interpretability**: Explainable AI for trust and debugging (e.g., attention visualization, LIME/SHAP).
 - **Standardized Datasets**: Large-scale, diverse datasets with rich metadata.
 - **Real-Time Inference**: Algorithm-hardware co-design for low-latency processing.
