@@ -7,7 +7,6 @@ Contributors：[Jiajia Guo](https://jiajiaguo.github.io/), [Yiming Cui](https://
 If there are any omissions in the collection of the papers, please feel free to contact [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ) at cuiyiming@seu.edu.cn.
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Overview](#overview)
 - [Pre-trained LAMs](#pre-trained-lams)
 - [Native LAMs](#native-lams)
@@ -15,8 +14,6 @@ If there are any omissions in the collection of the papers, please feel free to 
 - [Note](#note)
 - [License](#license)
 
-## Introduction
-This repository is based on the survey paper by Guo et al., which reviews the application of Large AI Models (LAMs) in wireless physical layer tasks. LAMs, including LLMs, LVMs, and LMMs, offer robust generalization, multitask processing, and multimodal capabilities for tasks like channel prediction, beamforming, and CSI feedback. This collection lists key models, frameworks, and datasets, with a focus on pre-trained and native LAMs.
 
 ## Overview
 
