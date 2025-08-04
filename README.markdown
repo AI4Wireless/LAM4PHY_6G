@@ -10,7 +10,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 - [Overview](#overview)
 - [Pre-trained LAMs](#pre-trained-lams)
 - [Native LAMs](#native-lams)
-- [Special Issue](#special-issue)
+- [Special Issues](#special-issues)
 - [Note](#note)
 - [License](#license)
 
@@ -91,7 +91,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 - **[BERT+MIMO](https://arxiv.org/abs/2501.10629)** (Mar 2025): Foundation model for MIMO systems.
 
 
-## Special Issue
+## Special Issues
 
 
 - **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://www.springeropen.com/collections/imen)** (Deadline: 31 December 2025): EURASIP Journal on Wireless Communications and Networking. Guest editors: Peiyan Yuan, Tarik Taleb, Chenyang Wang, Chuan Sun, Xiaoqiang Zhu, and Xiaoyan Zha.
