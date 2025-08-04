@@ -22,7 +22,9 @@ Key challenges and opportunities for LAMs in wireless physical layer application
 - **[Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)** (June 2025): Le Liang, Hao Ye, Yucheng Sheng, Ouya Wang, Jiacheng Wang, Shi Jin, and Geoffrey Ye Li.
 - **[Wireless Large AI Model: Shaping the AI-Native Future of 6G and Beyond](https://arxiv.org/abs/2504.14653)** (Apr 2025): Fenghao Zhu, Xinquan Wang, Xinyi Li, et al.
 - **[Towards Wireless Native Big AI Model: The Mission and Approach Differ From Large Language Model](https://arxiv.org/abs/2412.09041)** (Dec 2024): Zirui Chen, Zhaoyang Zhang, Chenyu Liu, Ziqing Xing. 
- 
+- **[Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions](https://arxiv.org/abs/2308.06250)** (Aug 2023): Zirui Chen, Zhaoyang Zhang, Zhaohui Yang.
+
+  
 ## Pre-trained LAMs
 Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks through preprocessing, fine-tuning, and output alignment. Key applications include:
 
