@@ -94,7 +94,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 ## Special Issue
 - **[Large AI Models for Large AI Models for Communications](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/large-ai-models-communications)** (Deadline: 31 July 2025):  IEEE Communications Magazine. Guest editors: Kezhi Wang, Feibo Jiang, Merouane Debbah, and Zhu Han.
 - **[Large AI Models for Future Wireless Communication Systems](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/large-ai-models-future-wireless-communication-systems)** (Deadline: 15 May 2025): IEEE Journal on Selected Areas in Communications. Guest editors: Cunhua Pan, Feibo Jiang, Kezhi Wang, Pietro Michiardi, Octavia A. Dobre, Peiying Zhu, and Merouane Debbah.
-- **[6G in the Era of Large Models: Design, Applications and Beyond](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/call-for-papers/special-issue-on-6g-in-the-era-of-large-models-design-applications-and-beyond/)** (Deadline: 31 October 2024): Digital Communications and Networks. Guest editors: Jianhui Lv, Byung-Gyu Kim, Keqin Li, Adam Slowik, and Yuhui Shi,
+- **[6G in the Era of Large Models: Design, Applications and Beyond](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/call-for-papers/special-issue-on-6g-in-the-era-of-large-models-design-applications-and-beyond/)** (Deadline: 31 October 2024): Digital Communications and Networks. Guest editors: Jianhui Lv, Byung-Gyu Kim, Keqin Li, Adam Slowik, and Yuhui Shi.
+- **[Edge Learning and Big AI Model in Wireless Communication and Networking](https://www.mdpi.com/journal/electronics/special_issues/Wireless_Communication_Networking)** (Deadline: 15 July 2024): Electronics . Guest editors: Zhaohui Yang, Zhiyang Li, and Wanli Ni.
+
+ 
+
+
 ## Note
  
 If there are any omissions in the collection of the above papers, please feel free to contact [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ) at cuiyiming@seu.edu.cn, with a copy to [Jiajia Guo](https://jiajiaguo.github.io/) at jiajiaguo@seu.edu.cn.
