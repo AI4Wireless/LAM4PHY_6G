@@ -36,30 +36,55 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
  
   Paper Title: `Leveraging Pre-Trained Large Language Models for CSI Feedback in Massive MIMO Systems`
 
+  Paper Authors: `Yiming Cui,Jiajia Guo,Chao-Kai Wen,Shi Jin, and En Tong`
+
 - **[LVM4CSI](https://arxiv.org/abs/2507.05121)** (Jul 2025): ConvNeXt/DINO-X for CSI tasks including channel estimation, user localization, and sensing.
  
   Paper Title: `LVM4CSI: Enabling Direct Application of Pre-Trained Large Vision Models for Wireless Channel Tasks`
+
+  Paper Authors: `Jiajia Guo, Peiwen Jiang, Chao-Kai Wen, Shi Jin, and Jun Zhang`
 - **[M2BeamLLM](https://arxiv.org/abs/2506.14532)** (Jun 2025): Multimodal beam prediction with sensor data fusion.
  
   Paper Title: `M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models`
+
+  Paper Authors: `Can Zheng, Jiguang He, Chung G. Kang, Guofa Cai, Zitong Yu, Merouane Debbah`
+  
 - **[LLM4SG](https://arxiv.org/abs/2505.17879)** (May 2025): GPT-2 for LIDAR-to-scatterer mapping.
  
   Paper Title: `LLM4SG: Large Language Models for Scatterer Generation via Synesthesia of Machines`
+
+  Paper Authors: `Zengrui Han, Lu Bai, Ziwei Huang, and Xiang Cheng`
+  
 - **[2DLAM](https://openreview.net/forum?id=AbmUZ4oJoP)** (Mar 2025): ImageGPT for joint delay-Doppler estimation.
  
   Paper Title: `2DLAM: Joint Delay-Doppler Estimation in UAV mmWave System via Large AI Model`
+
+  Paper Authors: `Daixin Xie, Chenxi Liu, Wei Wang, Fengxian Guo, and Xiaoling Hu`
+
+  
 - **[LLM4feedback](https://arxiv.org/abs/2501.10630)** (Jan 2025): GPT-2 for CSI feedback.
  
   Paper Title: `Exploring the Potential of Large Language Models for Massive MIMO CSI Feedback`
+
+  Paper Authors: `Yiming Cui,Jiajia Guo,Chao-Kai Wen,Shi Jin, and En Tong`
+  
 - **[Multi-task LLM](https://arxiv.org/abs/2412.20772)** (Dec 2024): LLaMA2 for signal detection and channel prediction.
  
   Paper Title: `Large Language Model Enabled Multi-Task Physical Layer Network`
+
+  Paper Authors: `Tianyue Zheng and Linglong Dai`
+  
 - **[BP-LLM](https://arxiv.org/abs/2408.08707)** (Aug 2024): GPT-2 for beam prediction with Prototype-as-Preds mechanism.
  
   Paper Title: `Beam Prediction based on Large Language Models`
+
+  Paper Authors: `Yucheng Sheng, Kai Huang, Le Liang, Peng Liu, Shi Jin, Geoffrey Ye Li`
+  
 - **[LLM4CP](https://arxiv.org/abs/2406.14440)** (Jun 2024): GPT-2 for channel prediction with uplink-downlink CSI mapping.
 
   Paper Title: `LLM4CP: Adapting Large Language Models for Channel Prediction`
+
+  Paper Authors: `Boxun Liu, Xuanyu Liu, Shijian Gao, Xiang Cheng, Liuqing Yang`
  
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
