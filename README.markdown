@@ -104,7 +104,9 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 - **[Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)** (Deadline: 28 February 2025): IEEE Open Journal of the Communications Society. Guest editors: Jiacheng Wang, Geng Sun, Dusit Niyato, Hina Tabassum, Gabriel-Miro Muntean, and Nelson Fonseca.
  
 - **[6G in the Era of Large Models: Design, Applications and Beyond](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/call-for-papers/special-issue-on-6g-in-the-era-of-large-models-design-applications-and-beyond/)** (Deadline: 31 October 2024): Digital Communications and Networks. Guest editors: Jianhui Lv, Byung-Gyu Kim, Keqin Li, Adam Slowik, and Yuhui Shi.
- 
+
+ - **[Empowering Future Mobile Networks with Large Models](https://www.comsoc.org/publications/magazines/ieee-network/cfp/empowering-future-mobile-networks-large-models)** (Deadline: 10 September 2024): IEEE Network. Guest editors: Yin Zhang, Xueli An, Maziar Nekovee, Jia Liu, Chau Yuen, and Yan Zhang.
+   
 - **[Edge Learning and Big AI Model in Wireless Communication and Networking](https://www.mdpi.com/journal/electronics/special_issues/Wireless_Communication_Networking)** (Deadline: 15 July 2024): Electronics . Guest editors: Zhaohui Yang, Zhiyang Li, and Wanli Ni.
 
  
