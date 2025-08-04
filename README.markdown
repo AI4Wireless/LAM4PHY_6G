@@ -1,0 +1,77 @@
+# Large AI Models for Wireless Physical Layer
+
+A curated collection of paper on Large AI Models (LAMs) for wireless physical layer applications, extended from the overview paper by Jiajia Guo et al. (xxxx).
+
+(Contributors：[Jiajia Guo](https://jiajiaguo.github.io/), [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), [Tianyue Zheng](https://scholar.google.com/citations?user=A_Xk7NIAAAAJ&hl=zh-CN))
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Overview](#overview)
+- [Pre-trained LAMs](#pre-trained-lams)
+- [Native LAMs](#native-lams)
+- [Special Issue](#special-issue)
+- [Note](#note)
+- [License](#license)
+
+## Introduction
+This repository is based on the survey paper by Guo et al., which reviews the application of Large AI Models (LAMs) in wireless physical layer tasks. LAMs, including LLMs, LVMs, and LMMs, offer robust generalization, multitask processing, and multimodal capabilities for tasks like channel prediction, beamforming, and CSI feedback. This collection lists key models, frameworks, and datasets, with a focus on pre-trained and native LAMs.
+
+## Overview
+Key challenges and opportunities for LAMs in wireless physical layer applications:
+
+- **Efficient Architectures**: Lightweight models using compression and novel designs like MoE or SSMs.
+- **Interpretability**: Explainable AI for trust and debugging (e.g., attention visualization, LIME/SHAP).
+- **Standardized Datasets**: Large-scale, diverse datasets with rich metadata.
+- **Real-Time Inference**: Algorithm-hardware co-design for low-latency processing.
+- **Model Collaboration**: Synergistic integration of large and small models.
+
+## Pre-trained LAMs
+Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks through preprocessing, fine-tuning, and output alignment. Key applications include:
+
+- **[LLM4feedback+MoA](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175289012.28506097)** (Jul 2025): LLM + Mixture-of-Agents (MoA) for CSI feedback.
+ 
+  Paper Title: `Leveraging Pre-Trained Large Language Models for CSI Feedback in Massive MIMO Systems`
+
+- **[LVM4CSI](https://arxiv.org/abs/2507.05121)** (Jul 2025): ConvNeXt/DINO-X for CSI tasks including channel estimation, user localization, and sensing.
+ 
+  Paper Title: `LVM4CSI: Enabling Direct Application of Pre-Trained Large Vision Models for Wireless Channel Tasks`
+- **[M2BeamLLM](https://arxiv.org/abs/2506.14532)** (Jun 2025): Multimodal beam prediction with sensor data fusion.
+ 
+  Paper Title: `M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models`
+- **[LLM4SG](https://arxiv.org/abs/2505.17879)** (May 2025): GPT-2 for LIDAR-to-scatterer mapping.
+ 
+  Paper Title: `LLM4SG: Large Language Models for Scatterer Generation via Synesthesia of Machines`
+- **[2DLAM](https://openreview.net/forum?id=AbmUZ4oJoP)** (Mar 2025): ImageGPT for joint delay-Doppler estimation.
+ 
+  Paper Title: `2DLAM: Joint Delay-Doppler Estimation in UAV mmWave System via Large AI Model`
+- **[LLM4feedback](https://arxiv.org/abs/2501.10630)** (Jan 2025): GPT-2 for CSI feedback.
+ 
+  Paper Title: `Exploring the Potential of Large Language Models for Massive MIMO CSI Feedback`
+- **[Multi-task LLM](https://arxiv.org/abs/2412.20772)** (Dec 2024): LLaMA2 for signal detection and channel prediction.
+ 
+  Paper Title: `Large Language Model Enabled Multi-Task Physical Layer Network`
+- **[BP-LLM](https://arxiv.org/abs/2408.08707)** (Aug 2024): GPT-2 for beam prediction with Prototype-as-Preds mechanism.
+ 
+  Paper Title: `Beam Prediction based on Large Language Models`
+- **[LLM4CP](https://arxiv.org/abs/2406.14440)** (Jun 2024): GPT-2 for channel prediction with uplink-downlink CSI mapping.
+
+  Paper Title: `LLM4CP: Adapting Large Language Models for Channel Prediction`
+ 
+## Native LAMs
+Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
+
+- **[Prompt-Enabled LAM](https://arxiv.org/abs/2501.10629)** (Apr 2025): Transformer-based LAM for CSI feedback with expert knowledge prompts.
+- **[LWM](https://arxiv.org/abs/2411.08872)** (Apr 2025): Universal feature extractor for beam prediction and LoS/NLoS classification.
+- **[WirelessGPT](https://ieeexplore.ieee.org/document/XXXXXXX)** (2025): Multi-task model for communication and sensing.
+- **[BERT+MIMO](https://arxiv.org/abs/2501.10629)** (Mar 2025): Foundation model for MIMO systems.
+
+
+## Special Issue
+We welcome contributions! To add a resource:
+
+## Note
+ 
+If there are any omissions in the collection of the above papers, please feel free to contact [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ) at cuiyiming@seu.edu.cn, with a copy to [Jiajia Guo](https://jiajiaguo.github.io/) at jiajiaguo@seu.edu.cn.
+
+## License
+This project is licensed under the MIT License.
