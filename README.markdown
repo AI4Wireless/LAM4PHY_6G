@@ -67,7 +67,8 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 
 ## Special Issue
-- **[Large AI Models for Future Wireless Communication Systems](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/large-ai-models-future-wireless-communication-systems)** (Deadline: 15 May 2025): IEEE Journal on Selected Areas in Communications.
+- **[Large AI Models for Large AI Models for Communications](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/large-ai-models-communications)** (Deadline: 31 July 2025):  IEEE Communications Magazine. Guest editors: Kezhi Wang, Feibo Jiang, Merouane Debbah, and Zhu Han.
+- **[Large AI Models for Future Wireless Communication Systems](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/large-ai-models-future-wireless-communication-systems)** (Deadline: 15 May 2025): IEEE Journal on Selected Areas in Communications. Guest editors: Cunhua Pan, Feibo Jiang, Kezhi Wang, Pietro Michiardi, Octavia A. Dobre, Peiying Zhu, and Merouane Debbah.
 
 ## Note
  
