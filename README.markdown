@@ -70,7 +70,7 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
 
   Paper Authors: `Tianyue Zheng and Linglong Dai`
   
-- **[BP-LLM](https://arxiv.org/abs/2408.08707)** (Aug 2024): GPT-2 for beam prediction with Prototype-as-Preds mechanism.  [Source code](https://github.com/le-liang/Beam-prediction-LLM)
+- **[BP-LLM](https://arxiv.org/abs/2408.08707)** (Aug 2024): GPT-2 for beam prediction with Prompt-as-prefix mechanism.  [Source code](https://github.com/le-liang/Beam-prediction-LLM)
  
   Paper Title: `Beam Prediction based on Large Language Models`
 
