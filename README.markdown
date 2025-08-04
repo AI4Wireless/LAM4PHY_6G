@@ -19,7 +19,6 @@ If there are any omissions in the collection of the papers, please feel free to 
 This repository is based on the survey paper by Guo et al., which reviews the application of Large AI Models (LAMs) in wireless physical layer tasks. LAMs, including LLMs, LVMs, and LMMs, offer robust generalization, multitask processing, and multimodal capabilities for tasks like channel prediction, beamforming, and CSI feedback. This collection lists key models, frameworks, and datasets, with a focus on pre-trained and native LAMs.
 
 ## Overview
-Key challenges and opportunities for LAMs in wireless physical layer applications:
 
 - **[Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)** (Jul 2025): Le Liang, Hao Ye, Yucheng Sheng, Ouya Wang, Jiacheng Wang, Shi Jin, and Geoffrey Ye Li.
 - **[From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications](https://arxiv.org/abs/2505.22311)** (May 2025): Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Octavia A. Dobre, and Merouane Debbah.
