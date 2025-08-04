@@ -20,7 +20,8 @@ If there are any omissions in the collection of the papers, please feel free to 
 - **[From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications](https://arxiv.org/abs/2505.22311)** (May 2025): Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Octavia A. Dobre, and Merouane Debbah.
 - **[A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges](https://arxiv.org/abs/2505.03556)** (May 2025):Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, and Zhu Han.
 - **[Wireless Large AI Model: Shaping the AI-Native Future of 6G and Beyond](https://arxiv.org/abs/2504.14653)** (Apr 2025): Fenghao Zhu, Xinquan Wang, Xinyi Li, et al.
-- **[Towards Wireless Native Big AI Model: The Mission and Approach Differ From Large Language Model](https://arxiv.org/abs/2412.09041)** (Dec 2024): Zirui Chen, Zhaoyang Zhang, Chenyu Liu, Ziqing Xing. 
+- **[Towards Wireless Native Big AI Model: The Mission and Approach Differ From Large Language Model](https://arxiv.org/abs/2412.09041)** (Dec 2024): Zirui Chen, Zhaoyang Zhang, Chenyu Liu, Ziqing Xing.
+- **[AI and Deep Learning for Terahertz Ultra-Massive MIMO: From Model-Driven Approaches to Foundation Models](https://arxiv.org/abs/2412.09839)** (Dec 2024): Wentao Yu, Hengtao He, Shenghui Song, Jun Zhang, Linglong Dai, Lizhong Zheng, Khaled B. Letaief.  
 - **[Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions](https://arxiv.org/abs/2308.06250)** (Aug 2023): Zirui Chen, Zhaoyang Zhang, Zhaohui Yang.
 
   
