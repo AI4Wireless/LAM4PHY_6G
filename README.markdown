@@ -95,9 +95,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 - **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://www.springeropen.com/collections/imen)** (Deadline: 31 December 2025): EURASIP Journal on Wireless Communications and Networking. Guest editors: Peiyan Yuan, Tarik Taleb, Chenyang Wang, Chuan Sun, Xiaoqiang Zhu, and Xiaoyan Zha.
 
+- **[Edge-Enabled Collaboration Between Large-scale and Lightweight Models in Sensor-Cloud Networks](https://www.comsoc.org/publications/magazines/ieee-network/cfp/edge-enabled-collaboration-between-large-scale-and)** (Deadline: 1 October 2025): IEEE Network. Guest editors:Tian Wang, Yao Liu, Geyong Min,
+Nektarios Georgalas, and Yan Zhang.
+
 - **[Large AI Models for the Internet of Everything](https://www.comsoc.org/publications/magazines/ieee-network/cfp/large-ai-models-internet-everything)** (Deadline: 1 September 2025): IEEE Network. Guest editors: Feibo Jiang, Kezhi Wang, Xingqin Lin, Merouane Debbah, and Zhu Han.
  
-- **[Large AI Models for Large AI Models for Communications](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/large-ai-models-communications)** (Deadline: 31 July 2025): IEEE Communications Magazine. Guest editors: Kezhi Wang, Feibo Jiang, Merouane Debbah, and Zhu Han.
+- **[Large AI Models for Communications](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/large-ai-models-communications)** (Deadline: 31 July 2025): IEEE Communications Magazine. Guest editors: Kezhi Wang, Feibo Jiang, Merouane Debbah, and Zhu Han.
  
 - **[Large AI Models for Future Wireless Communication Systems](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/large-ai-models-future-wireless-communication-systems)** (Deadline: 15 May 2025): IEEE Journal on Selected Areas in Communications. Guest editors: Cunhua Pan, Feibo Jiang, Kezhi Wang, Pietro Michiardi, Octavia A. Dobre, Peiying Zhu, and Merouane Debbah.
  
