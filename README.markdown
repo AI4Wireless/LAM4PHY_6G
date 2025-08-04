@@ -76,7 +76,7 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
 
   Paper Authors: `Yucheng Sheng, Kai Huang, Le Liang, Peng Liu, Shi Jin, Geoffrey Ye Li`
   
-- **[LLM4CP](https://arxiv.org/abs/2406.14440)** (Jun 2024): GPT-2 for channel prediction with uplink-downlink CSI mapping.
+- **[LLM4CP](https://arxiv.org/abs/2406.14440)** (Jun 2024): GPT-2 for channel prediction with uplink-downlink CSI mapping. [Source code](https://github.com/liuboxun/LLM4CP)
 
   Paper Title: `LLM4CP: Adapting Large Language Models for Channel Prediction`
 
