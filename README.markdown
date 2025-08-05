@@ -92,6 +92,11 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Authors: `Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin`
   
 - **[LWM](https://arxiv.org/abs/2411.08872)** (Apr 2025): Universal feature extractor for beam prediction and LoS/NLoS classification.
+
+  Paper Title: `Large Wireless Model (LWM): A Foundation Model for Wireless Channels`
+
+  Paper Authors: `Sadjad Alikhani, Gouranga Charan, Ahmed Alkhateeb`
+  
 - **[WirelessGPT](https://ieeexplore.ieee.org/document/XXXXXXX)** (2025): Multi-task model for communication and sensing.
 - **[BERT+MIMO](https://arxiv.org/abs/2501.10629)** (Mar 2025): Foundation model for MIMO systems.
 
