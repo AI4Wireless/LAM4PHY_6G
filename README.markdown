@@ -1,6 +1,6 @@
 # Large AI Models for Wireless Physical Layer
 
-A collection of paper on Large AI Models (LAMs) for wireless physical layer applications, extended from the overview paper by Jiajia Guo et al. (xxxx).  on going......
+A collection of paper on Large AI Models (LAMs) for wireless physical layer applications, extended from the overview paper by [Jiajia Guo et al.](https://arxiv.org/abs/2508.02314).  on going......
 
 Contributors：[Jiajia Guo](https://jiajiaguo.github.io/), [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), [Tianyue Zheng](https://scholar.google.com/citations?user=A_Xk7NIAAAAJ&hl=zh-CN).
 If there are any omissions in the collection of the papers, please feel free to contact [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ) at cuiyiming@seu.edu.cn.
@@ -15,7 +15,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
 
 ## Overview
-
+- **[Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)** (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.
 - **[Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)** (Jul 2025): Le Liang, Hao Ye, Yucheng Sheng, Ouya Wang, Jiacheng Wang, Shi Jin, and Geoffrey Ye Li.
 - **[From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications](https://arxiv.org/abs/2505.22311)** (May 2025): Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Octavia A. Dobre, and Merouane Debbah.
 - **[A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges](https://arxiv.org/abs/2505.03556)** (May 2025):Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, and Zhu Han.
