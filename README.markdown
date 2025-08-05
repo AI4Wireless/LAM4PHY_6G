@@ -97,8 +97,14 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Sadjad Alikhani, Gouranga Charan, Ahmed Alkhateeb`
   
-- **[WirelessGPT](https://ieeexplore.ieee.org/document/XXXXXXX)** (2025): Multi-task model for communication and sensing.
 - **[BERT+MIMO](https://arxiv.org/abs/2501.10629)** (Mar 2025): Foundation model for MIMO systems.
+- **[WirelessGPT](https://ieeexplore.ieee.org/document/11036155)** (Feb 2025): Multi-task model for communication and sensing.
+
+  Paper Title: `WirelessGPT: A Generative Pre-trained Multi-task Learning Framework for Wireless Communication`
+
+  Paper Authors: `Tingting Yang, Ping Zhang, Mengfan Zheng, Yuxuan Shi, Liwen Jing, Jianbo Huang, Nan Li`
+
+
 
 
 ## Special Issues
