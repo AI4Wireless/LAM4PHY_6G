@@ -91,7 +91,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Yuxuan Wen, Xiaoming Chen, Maojun Zhang, Zhaoyang Zhang`
 
-  - **[SpectrumFM](https://arxiv.org/abs/2505.06256)** (May 2025): LAM for spectrum management. [Source code](https://github.com/ChunyuLiu188/SpectrumFM)
+- **[SpectrumFM](https://arxiv.org/abs/2505.06256)** (May 2025): LAM for spectrum management. [Source code](https://github.com/ChunyuLiu188/SpectrumFM)
 
   Paper Title: `SpectrumFM: A Foundation Model for Intelligent Spectrum Management`
 
