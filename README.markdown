@@ -86,6 +86,11 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
 - **[Prompt-Enabled LAM](https://arxiv.org/abs/2501.10629)** (Apr 2025): Transformer-based LAM for CSI feedback with expert knowledge prompts.
+
+  Paper Title: `Prompt-Enabled Large AI Models for CSI Feedback`
+
+  Paper Authors: `Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin`
+  
 - **[LWM](https://arxiv.org/abs/2411.08872)** (Apr 2025): Universal feature extractor for beam prediction and LoS/NLoS classification.
 - **[WirelessGPT](https://ieeexplore.ieee.org/document/XXXXXXX)** (2025): Multi-task model for communication and sensing.
 - **[BERT+MIMO](https://arxiv.org/abs/2501.10629)** (Mar 2025): Foundation model for MIMO systems.
