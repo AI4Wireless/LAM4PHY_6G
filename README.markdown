@@ -85,6 +85,12 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[WavesFM](https://arxiv.org/abs/2504.14100)** (Apr 2025): ViT-based LAM for physical layer tasks with image-like wireless modalities.
+
+  Paper Title: `6G WavesFM: A Foundation Model for Sensing, Communication, and Localization`
+
+  Paper Authors: `Ahmed Aboulfotouh, Elsayed Mohammed, Hatem Abou-Zeid`
+
 - **[Prompt-Enabled LAM](https://arxiv.org/abs/2501.10629)** (Apr 2025): Transformer-based LAM for CSI feedback with expert knowledge prompts.
 
   Paper Title: `Prompt-Enabled Large AI Models for CSI Feedback`
@@ -103,7 +109,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Tingting Yang, Ping Zhang, Mengfan Zheng, Yuxuan Shi, Liwen Jing, Jianbo Huang, Nan Li`
 
-- **[BERT4MIMO](https://arxiv.org/abs/2501.01802)** (Jan 2025): BERT for massive MIMO CSI prediction.
+- **[BERT4MIMO](https://arxiv.org/abs/2501.01802)** (Jan 2025): BERT for massive MIMO CSI prediction.[Source code](https://github.com/ocatak/BERT4MIMO-AI4Wireless)
 
   Paper Title: `BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction`
 
