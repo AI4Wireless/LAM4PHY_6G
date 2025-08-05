@@ -91,20 +91,23 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin`
   
-- **[LWM](https://arxiv.org/abs/2411.08872)** (Apr 2025): Universal feature extractor for beam prediction and LoS/NLoS classification.
+- **[LWM](https://arxiv.org/abs/2411.08872)** (Apr 2025): Universal feature extractor for beam prediction and LoS/NLoS classification.[Source code](https://huggingface.co/wi-lab)
 
   Paper Title: `Large Wireless Model (LWM): A Foundation Model for Wireless Channels`
 
   Paper Authors: `Sadjad Alikhani, Gouranga Charan, Ahmed Alkhateeb`
   
-- **[BERT+MIMO](https://arxiv.org/abs/2501.10629)** (Mar 2025): Foundation model for MIMO systems.
 - **[WirelessGPT](https://ieeexplore.ieee.org/document/11036155)** (Feb 2025): Multi-task model for communication and sensing.
 
   Paper Title: `WirelessGPT: A Generative Pre-trained Multi-task Learning Framework for Wireless Communication`
 
   Paper Authors: `Tingting Yang, Ping Zhang, Mengfan Zheng, Yuxuan Shi, Liwen Jing, Jianbo Huang, Nan Li`
 
+- **[BERT4MIMO](https://arxiv.org/abs/2501.01802)** (Jan 2025): BERT for massive MIMO CSI prediction.
 
+  Paper Title: `BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction`
+
+  Paper Authors: `Ferhat Ozgur Catak, Murat Kuzlu, Umit Cali`
 
 
 ## Special Issues
