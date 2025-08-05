@@ -64,7 +64,7 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
 
   Paper Authors: `Yiming Cui,Jiajia Guo,Chao-Kai Wen,Shi Jin, and En Tong`
   
-- **[Multi-task LLM](https://arxiv.org/abs/2412.20772)** (Dec 2024): LLaMA2 for signal detection and channel prediction.
+- **[Multi-task LLM](https://arxiv.org/abs/2412.20772)** (Dec 2024): LAM for multiple physical lauyer tasks: signal detection, precoding and channel prediction.
  
   Paper Title: `Large Language Model Enabled Multi-Task Physical Layer Network`
 
@@ -85,6 +85,18 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[ICWLM](https://arxiv.org/abs/2507.18167)** (Jul 2025): Multi-task LAM via in-Context learning.
+
+  Paper Title: `ICWLM: A Multi-Task Wireless Large Model via In-Context Learning`
+
+  Paper Authors: `Yuxuan Wen, Xiaoming Chen, Maojun Zhang, Zhaoyang Zhang`
+
+  - **[SpectrumFM](https://arxiv.org/abs/2505.06256)** (May 2025): LAM for spectrum management. [Source code](https://github.com/ChunyuLiu188/SpectrumFM)
+
+  Paper Title: `SpectrumFM: A Foundation Model for Intelligent Spectrum Management`
+
+  Paper Authors: `Fuhui Zhou, Chunyu Liu, Hao Zhang, Wei Wu, Qihui Wu, Derrick Wing Kwan Ng, Tony Q. S. Quek, Chan-Byoung Chae`
+  
 - **[WavesFM](https://arxiv.org/abs/2504.14100)** (Apr 2025): ViT-based LAM for physical layer tasks with image-like wireless modalities.
 
   Paper Title: `6G WavesFM: A Foundation Model for Sensing, Communication, and Localization`
@@ -97,7 +109,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin`
   
-- **[LWM](https://arxiv.org/abs/2411.08872)** (Apr 2025): Universal feature extractor for beam prediction and LoS/NLoS classification.[Source code](https://huggingface.co/wi-lab)
+- **[LWM](https://arxiv.org/abs/2411.08872)** (Apr 2025): Universal feature extractor for beam prediction and LoS/NLoS classification. [Source code](https://huggingface.co/wi-lab)
 
   Paper Title: `Large Wireless Model (LWM): A Foundation Model for Wireless Channels`
 
@@ -109,7 +121,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Tingting Yang, Ping Zhang, Mengfan Zheng, Yuxuan Shi, Liwen Jing, Jianbo Huang, Nan Li`
 
-- **[BERT4MIMO](https://arxiv.org/abs/2501.01802)** (Jan 2025): BERT for massive MIMO CSI prediction.[Source code](https://github.com/ocatak/BERT4MIMO-AI4Wireless)
+- **[BERT4MIMO](https://arxiv.org/abs/2501.01802)** (Jan 2025): BERT for massive MIMO CSI prediction. [Source code](https://github.com/ocatak/BERT4MIMO-AI4Wireless)
 
   Paper Title: `BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction`
 
