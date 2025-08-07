@@ -95,6 +95,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Yuxuan Wen, Xiaoming Chen, Maojun Zhang, Zhaoyang Zhang`
 
+  - **[FoundationModel](https://arxiv.org/abs/2507.05938)** (Jul 2025): A unified foundation model for multi-task prediction.
+
+  Paper Title: `A Wireless Foundation Model for Multi-Task Prediction`
+
+  Paper Authors: `Yucheng Sheng, Jiacheng Wang, Xingyu Zhou, Le Liang, Hao Ye, Shi Jin, Geoffrey Ye Li`
+
 - **[SpectrumFM](https://arxiv.org/abs/2505.06256)** (May 2025): LAM for spectrum management. [Source code](https://github.com/ChunyuLiu188/SpectrumFM)
 
   Paper Title: `SpectrumFM: A Foundation Model for Intelligent Spectrum Management`
