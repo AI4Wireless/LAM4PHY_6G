@@ -83,6 +83,12 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[WiFo-CF](https://arxiv.org/abs/2508.04068)** (Jul 2025): Accommodating heterogeneous configurations within LAMs.
+
+  Paper Title: `WiFo-CF: Wireless Foundation Model for CSI Feedback`
+
+  Paper Authors: `Liu Xuanyu, Gao Shijian, Liu Boxun, Cheng Xiang, Yang Liuqing`
+  
 - **[ICWLM](https://arxiv.org/abs/2507.18167)** (Jul 2025): Multi-task LAM via in-Context learning.
 
   Paper Title: `ICWLM: A Multi-Task Wireless Large Model via In-Context Learning`
