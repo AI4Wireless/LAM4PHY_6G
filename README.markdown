@@ -107,17 +107,6 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Ahmed Aboulfotouh, Elsayed Mohammed, Hatem Abou-Zeid`
 
-- **[Prompt-Enabled LAM](https://arxiv.org/abs/2501.10629)** (Apr 2025): Transformer-based LAM for CSI feedback with expert knowledge prompts.
-
-  Paper Title: `Prompt-Enabled Large AI Models for CSI Feedback`
-
-  Paper Authors: `Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin`
-  
-- **[LWM](https://arxiv.org/abs/2411.08872)** (Apr 2025): Universal feature extractor for beam prediction and LoS/NLoS classification. [Source code](https://huggingface.co/wi-lab)
-
-  Paper Title: `Large Wireless Model (LWM): A Foundation Model for Wireless Channels`
-
-  Paper Authors: `Sadjad Alikhani, Gouranga Charan, Ahmed Alkhateeb`
   
 - **[WirelessGPT](https://ieeexplore.ieee.org/document/11036155)** (Feb 2025): Multi-task model for communication and sensing.
 
@@ -130,6 +119,18 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction`
 
   Paper Authors: `Ferhat Ozgur Catak, Murat Kuzlu, Umit Cali`
+
+  - **[Prompt-Enabled LAM](https://arxiv.org/abs/2501.10629)** (Jan 2025): Transformer-based LAM for CSI feedback with expert knowledge prompts.
+
+  Paper Title: `Prompt-Enabled Large AI Models for CSI Feedback`
+
+  Paper Authors: `Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin`
+
+  - **[LWM](https://arxiv.org/abs/2411.08872)** (Nov 2024): Universal feature extractor for beam prediction and LoS/NLoS classification. [Source code](https://huggingface.co/wi-lab)
+
+  Paper Title: `Large Wireless Model (LWM): A Foundation Model for Wireless Channels`
+
+  Paper Authors: `Sadjad Alikhani, Gouranga Charan, Ahmed Alkhateeb`
 
 
 ## Special Issues
