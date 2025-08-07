@@ -95,7 +95,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Yuxuan Wen, Xiaoming Chen, Maojun Zhang, Zhaoyang Zhang`
 
-  - **[FoundationModel](https://arxiv.org/abs/2507.05938)** (Jul 2025): A unified foundation model for multi-task prediction.
+- **[FoundationModel](https://arxiv.org/abs/2507.05938)** (Jul 2025): A unified foundation model for multi-task prediction.
 
   Paper Title: `A Wireless Foundation Model for Multi-Task Prediction`
 
