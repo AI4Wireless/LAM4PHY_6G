@@ -89,6 +89,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Liu Xuanyu, Gao Shijian, Liu Boxun, Cheng Xiang, Yang Liuqing`
   
+- **[MAEPD](https://arxiv.org/pdf/2508.04316)** (Jul 2025): A foundational model for distributed acoustic sensing signal recognition.
+
+  Paper Title: `A Foundation Model for DAS Signal Recognition and Visual Prompt Tuning of the Pre-trained Model for Downstream Tasks`
+
+  Paper Authors: `Kun Gui, Hongliang Ren, Shang Shi, Jin Lu, Changqiu Yu, Quanjun Cao, Guomin Gu, Qi Xuan`
+  
 - **[ICWLM](https://arxiv.org/abs/2507.18167)** (Jul 2025): Multi-task LAM via in-Context learning.
 
   Paper Title: `ICWLM: A Multi-Task Wireless Large Model via In-Context Learning`
