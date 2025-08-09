@@ -28,47 +28,127 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Pre-trained LAMs
 Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks through preprocessing, fine-tuning, and output alignment. Key applications include:
 
+
+
 - **[LLM4feedback+MoA](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175289012.28506097)** (Jul 2025): LLM + Mixture-of-Agents (MoA) for CSI feedback.
  
   Paper Title: `Leveraging Pre-Trained Large Language Models for CSI Feedback in Massive MIMO Systems`
 
-  Paper Authors: `Yiming Cui,Jiajia Guo,Chao-Kai Wen,Shi Jin, and En Tong`
+  Paper Authors: `Yiming Cui, Jiajia Guo, Chao-Kai Wen, Shi Jin, En Tong`
 
 - **[LVM4CSI](https://arxiv.org/abs/2507.05121)** (Jul 2025): ConvNeXt/DINO-X for CSI tasks including channel estimation, user localization, and sensing.
  
   Paper Title: `LVM4CSI: Enabling Direct Application of Pre-Trained Large Vision Models for Wireless Channel Tasks`
 
-  Paper Authors: `Jiajia Guo, Peiwen Jiang, Chao-Kai Wen, Shi Jin, and Jun Zhang`
+  Paper Authors: `Jiajia Guo, Peiwen Jiang, Chao-Kai Wen, Shi Jin, Jun Zhang`
+  
 - **[M2BeamLLM](https://arxiv.org/abs/2506.14532)** (Jun 2025): Multimodal beam prediction with sensor data fusion.
  
   Paper Title: `M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models`
 
   Paper Authors: `Can Zheng, Jiguang He, Chung G. Kang, Guofa Cai, Zitong Yu, Merouane Debbah`
-  
+
+- **[DeepForm](https://arxiv.org/abs/2506.08551)** (Jun 2025): LLM for communication system formulation.
+ 
+  Paper Title: `DeepForm: Reasoning Large Language Model for Communication System Formulation`
+
+  Paper Authors: `Panlong Wu, Ting Wang, Yifei Zhong, Haoqi Zhang, Zitong Wang, Fangxin Wang`
+
+- **[LLM4beamforming&user association](https://arxiv.org/abs/2506.05637)** (Jun 2025): Discussing with LLM for joint user association and beamforming.
+ 
+  Paper Title: `Joint User Association and Beamforming Design for ISAC Networks with Large Language Models`
+
+  Paper Authors: `Haoyun Li, Ming Xiao, Kezhi Wang, Robert Schober, Dong In Kim, Yong Liang Guan`
+
 - **[LLM4SG](https://arxiv.org/abs/2505.17879)** (May 2025): GPT-2 for LIDAR-to-scatterer mapping.
  
   Paper Title: `LLM4SG: Large Language Models for Scatterer Generation via Synesthesia of Machines`
 
-  Paper Authors: `Zengrui Han, Lu Bai, Ziwei Huang, and Xiang Cheng`
-  
+  Paper Authors: `Zengrui Han, Lu Bai, Ziwei Huang, Xiang Cheng`
+
+- **[CSI-ALM](https://arxiv.org/abs/2505.12729)** (May 2025): GPT-2 for channel prediction with semantic alignment.
+ 
+  Paper Title: `Bridging the Modality Gap: Enhancing Channel Prediction with Semantically Aligned LLMs and Knowledge Distillation`
+
+  Paper Authors: `Zhaoyang Li, Qianqian Yang, Zehui Xiong, Zhiguo Shi, Tony Q. S. Quek`
+
+- **[FAS-LLM](https://arxiv.org/abs/2505.09751)** (May 2025): LLaMA for channel prediction in OTFS-enabled satellite-FAS links.
+ 
+  Paper Title: `FAS-LLM: Large Language Model-Based Channel Prediction for OTFS-Enabled Satellite-FAS Links`
+
+  Paper Authors: `Halvin Yang, Sangarapillai Lambotharan, Mahsa Derakhshani`
+
+- **[SA-LLM4CP](https://arxiv.org/abs/2505.09141)** (May 2025): GPT-2 for sensing-assisted channel prediction.
+ 
+  Paper Title: `Sensing-Assisted Channel Prediction in Complex Wireless Environments: An LLM-Based Approach`
+
+  Paper Authors: `Junjie He, Zixiang Ren, Jianping Yao, Han Hu, Tony Xiao Han, Jie Xu`
+
+- **[LVM4CF](https://arxiv.org/abs/2505.08566)** (May 2025): LLaMA for codebook-based CSI feedback.
+ 
+  Paper Title: `Large Sequence Model for MIMO Equalization in Fully Decoupled Radio Access Network`
+
+  Paper Authors: `Jialin Zhuang, Yafei Wang, Hongwei Hou, Yu Han, Wenjin Wang, Shi Jin, Jiangzhou Wang`
+
+- **[ASLLM](https://jeit.ac.cn/en/article/doi/10.11999/JEIT250105)** (May 2025): GPT-2 for channel prediction in satellite communications.
+ 
+  Paper Title: `LLM Channel Prediction Method for TDD OTFS Low-Earth-Orbit Satellite Communication Systems`
+
+  Paper Authors: `Yuxin You, Xinglong Jiang, Huijie Liu, Guang Liang`
+
+- **[LLM4Equalization](https://ieeexplore.ieee.org/abstract/document/10988809)** (May 2025): GPT-2 for MIMO equalization.
+ 
+  Paper Title: `Large Sequence Model for MIMO Equalization in Fully Decoupled Radio Access Network`
+
+  Paper Authors: `Kai Yu, Haibo Zhou, Yunting Xu, Zongxi Liu, Hongyang Du, Xuemin Shen`
+
+- **[IoX](https://arxiv.org/abs/2505.01834)** (May 2025): LLM for calling multiple wireless AI models.
+ 
+  Paper Title: `Model Context Protocol-based Internet of Experts For Wireless Environment-aware LLM Agents`
+
+  Paper Authors: `Zongxi Liu, Hongyang Du`
+
+- **[BeamLLM](https://arxiv.org/abs/2503.10432)** (Mar 2025): GPT-2 for vision-assisted beam prediction.
+ 
+  Paper Title: `BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models`
+
+  Paper Authors: `Can Zheng, Jiguang He, Guofa Cai, Zitong Yu, Chung G. Kang`
+
 - **[2DLAM](https://openreview.net/forum?id=AbmUZ4oJoP)** (Mar 2025): ImageGPT for joint delay-Doppler estimation.
  
   Paper Title: `2DLAM: Joint Delay-Doppler Estimation in UAV mmWave System via Large AI Model`
 
-  Paper Authors: `Daixin Xie, Chenxi Liu, Wei Wang, Fengxian Guo, and Xiaoling Hu`
+  Paper Authors: `Daixin Xie, Chenxi Liu, Wei Wang, Fengxian Guo, Xiaoling Hu`
 
-  
+- **[Port-LLM](https://arxiv.org/abs/2502.09857)** (Feb 2025): GPT-2 for port selection in fluid antenna systems.
+ 
+  Paper Title: `Port-LLM: A Port Prediction Method for Fluid Antenna based on Large Language Models`
+
+  Paper Authors: `Yali Zhang, Haifan Yin, Weidong Li, Emil Bjornson,Merouane Debbah`
+
+- **[RadioLLM](https://arxiv.org/abs/2501.17888)** (Jan 2025): GPT-2 for cognitive radio-related multi-tasking.
+ 
+  Paper Title: `RadioLLM: Introducing Large Language Model into Cognitive Radio via Hybrid Prompt and Token Reprogrammings`
+
+  Paper Authors: `Shuai Chen, Yong Zu, Zhixi Feng, Shuyuan Yang, Mengchang Li`
+
+- **[LLM4WM](https://arxiv.org/abs/2501.12983)** (Jan 2025): LoRA-style MoE for wireless multi-tasking.
+ 
+  Paper Title: `LLM4WM: Adapting LLM for Wireless Multi-Tasking`
+
+  Paper Authors: `Xuanyu Liu, Shijian Gao, Boxun Liu, Xiang Cheng, Liuqing Yang`
+
 - **[LLM4feedback](https://arxiv.org/abs/2501.10630)** (Jan 2025): GPT-2 for CSI feedback.
  
   Paper Title: `Exploring the Potential of Large Language Models for Massive MIMO CSI Feedback`
 
-  Paper Authors: `Yiming Cui,Jiajia Guo,Chao-Kai Wen,Shi Jin, and En Tong`
+  Paper Authors: `Yiming Cui, Jiajia Guo, Chao-Kai Wen, Shi Jin, En Tong`
   
 - **[Multi-task LLM](https://arxiv.org/abs/2412.20772)** (Dec 2024): LAM for multiple physical lauyer tasks: signal detection, precoding and channel prediction.
  
   Paper Title: `Large Language Model Enabled Multi-Task Physical Layer Network`
 
-  Paper Authors: `Tianyue Zheng and Linglong Dai`
+  Paper Authors: `Tianyue Zheng, Linglong Dai`
   
 - **[BP-LLM](https://arxiv.org/abs/2408.08707)** (Aug 2024): GPT-2 for beam prediction with Prompt-as-prefix mechanism.   
   Paper Title: `Beam Prediction based on Large Language Models`
