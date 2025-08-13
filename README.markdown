@@ -207,7 +207,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Fuhui Zhou, Chunyu Liu, Hao Zhang, Wei Wu, Qihui Wu, Derrick Wing Kwan Ng, Tony Q. S. Quek, Chan-Byoung Chae`
 
-  - **[FoundationModel](https://arxiv.org/abs/2505.14603)** (May 2025): Multi-modal model designed to operate directly on communication data. 
+- **[FoundationModel](https://arxiv.org/abs/2505.14603)** (May 2025): Multi-modal model designed to operate directly on communication data. 
 
   Paper Title: `Towards a Foundation Model for Communication Systems`
 
