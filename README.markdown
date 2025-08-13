@@ -206,6 +206,13 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `SpectrumFM: A Foundation Model for Intelligent Spectrum Management`
 
   Paper Authors: `Fuhui Zhou, Chunyu Liu, Hao Zhang, Wei Wu, Qihui Wu, Derrick Wing Kwan Ng, Tony Q. S. Quek, Chan-Byoung Chae`
+
+  - **[FoundationModel](https://arxiv.org/abs/2505.14603)** (May 2025): Multi-modal model designed to operate directly on communication data. 
+
+  Paper Title: `Towards a Foundation Model for Communication Systems`
+
+  Paper Authors: `Davide Buffelli, Sowmen Das, Yu-Wei Lin, Sattar Vakili, Chien-Yi Wang, Masoud Attarifar, Pritthijit Nath, Da-shan Shiu`
+  
   
 - **[WavesFM](https://arxiv.org/abs/2504.14100)** (Apr 2025): ViT-based LAM for physical layer tasks with image-like wireless modalities.
 
