@@ -163,7 +163,13 @@ Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks t
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
-- **[WiFo-CF](https://arxiv.org/abs/2508.04068)** (Jul 2025): Accommodating heterogeneous configurations within LAMs.
+- **[ReQuestNet](https://arxiv.org/abs/2508.08790)** (Aug 2025):  Foundational model for Channel Estimations.
+
+  Paper Title: `ReQuestNet: A Foundational Learning model for Channel Estimation`
+
+  Paper Authors: `Kumar Pratik, Pouriya Sadeghi, Gabriele Cesa, Sanaz Barghi, Joseph B. Soriaga, Yuanning Yu, Supratik Bhattacharjee, Arash Behboodi`
+  
+- **[WiFo-CF](https://arxiv.org/abs/2508.04068)** (Aug 2025): Accommodating heterogeneous configurations within LAMs.
 
   Paper Title: `WiFo-CF: Wireless Foundation Model for CSI Feedback`
 
