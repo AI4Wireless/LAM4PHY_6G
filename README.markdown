@@ -187,6 +187,14 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Yuxuan Wen, Xiaoming Chen, Maojun Zhang, Zhaoyang Zhang`
 
+  
+- **[Foundation Model](https://arxiv.org/abs/2507.18587)** (Jul 2025): A foundation model for massive MIMO precoding.
+
+  Paper Title: `A Foundation Model for Massive MIMO Precoding with an Adaptive per-User Rate-Power Tradeoff`
+
+  Paper Authors: `Jérôme Emery, Ali Hasanzadeh Karkan, Jean-François Frigon, François Leduc-Primeau`
+  
+
 - **[FoundationModel](https://arxiv.org/abs/2507.05938)** (Jul 2025): A unified foundation model for multi-task prediction.
 
   Paper Title: `A Wireless Foundation Model for Multi-Task Prediction`
