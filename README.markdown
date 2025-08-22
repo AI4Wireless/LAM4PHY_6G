@@ -175,6 +175,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `WiFo-CF: Wireless Foundation Model for CSI Feedback`
 
   Paper Authors: `Liu Xuanyu, Gao Shijian, Liu Boxun, Cheng Xiang, Yang Liuqing`
+
+- **[EIT-SPT-FM](https://arxiv.org/abs/2507.00366)** (Jul 2025): Electromagnetic information theory-guided foundation model.
+
+  Paper Title: `kWireless AI Evolution: From Statistical Learners to Electromagnetic-Guided Foundation Models`
+
+  Paper Authors: `Jian Xiao, Ji Wang, Kunrui Cao, Xingwang Li, Zhao Chen, Chau Yuen`
   
 - **[MAEPD](https://arxiv.org/pdf/2508.04316)** (Jul 2025): A foundational model for distributed acoustic sensing signal recognition.
 
