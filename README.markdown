@@ -29,7 +29,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Pre-trained LAMs
 Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks through preprocessing, fine-tuning, and output alignment. Key applications include:
 
-- **[ LLM-RIMSA](https://arxiv.org/abs/2508.12728)** (Jul 2025): LLM for RIS configurations.
+- **[LLM-RIMSA](https://arxiv.org/abs/2508.12728)** (Aug 2025): LLM for RIS configurations.
  
   Paper Title: `LLM-RIMSA: Large Language Models driven Reconfigurable Intelligent Metasurface Antenna Systems`
 
