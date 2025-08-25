@@ -23,7 +23,8 @@ If there are any omissions in the collection of the papers, please feel free to 
 - **[DeepRT: A Hybrid Framework Combining Large Model Architectures and Ray Tracing Principles for 6G Digital Twin Channels](https://www.mdpi.com/2079-9292/14/9/1849)** (May 2025): Mingyue Li, Tao Wu, Zhirui Dong, Xiao Liu, Yiwen Lu, Shuo Zhang, Zerui Wu, Yuxiang Zhang, Li Yu and Jianhua Zhang.
 - **[Wireless Large AI Model: Shaping the AI-Native Future of 6G and Beyond](https://arxiv.org/abs/2504.14653)** (Apr 2025): Fenghao Zhu, Xinquan Wang, Xinyi Li, et al.
 - **[Towards Wireless Native Big AI Model: The Mission and Approach Differ From Large Language Model](https://arxiv.org/abs/2412.09041)** (Dec 2024): Zirui Chen, Zhaoyang Zhang, Chenyu Liu, Ziqing Xing.
-- **[AI and Deep Learning for Terahertz Ultra-Massive MIMO: From Model-Driven Approaches to Foundation Models](https://arxiv.org/abs/2412.09839)** (Dec 2024): Wentao Yu, Hengtao He, Shenghui Song, Jun Zhang, Linglong Dai, Lizhong Zheng, Khaled B. Letaief.  
+- **[AI and Deep Learning for Terahertz Ultra-Massive MIMO: From Model-Driven Approaches to Foundation Models](https://arxiv.org/abs/2412.09839)** (Dec 2024): Wentao Yu, Hengtao He, Shenghui Song, Jun Zhang, Linglong Dai, Lizhong Zheng, Khaled B. Letaief.
+- **[Towards a Wireless Physical-Layer Foundation Model: Challenges and Strategies](https://arxiv.org/abs/2403.12065)** (Mar 2024):Jaron Fontaine, Adnan Shahid, Eli De Poorter.  
 - **[Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions](https://arxiv.org/abs/2308.06250)** (Aug 2023): Zirui Chen, Zhaoyang Zhang, Zhaohui Yang.
 
   
