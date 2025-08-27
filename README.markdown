@@ -182,7 +182,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Liu Xuanyu, Gao Shijian, Liu Boxun, Cheng Xiang, Yang Liuqing`
 
- - **[FM-Fi 2.0](https://ieeexplore.ieee.org/document/11098684)** (Jul 2025): Foundation Model for Cross-Modal Multi-Person Human Activity Recognition.
+- **[FM-Fi 2.0](https://ieeexplore.ieee.org/document/11098684)** (Jul 2025): Foundation Model for Cross-Modal Multi-Person Human Activity Recognition.
 
   Paper Title: `FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition`
 
