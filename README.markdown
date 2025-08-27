@@ -265,6 +265,11 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Sadjad Alikhani, Gouranga Charan, Ahmed Alkhateeb`
 
+- **[FM-Fi](https://dl.acm.org/doi/10.1145/3666025.3699349)** (Oct 2024):  Foundation Model for Cross-Modal RF Human Activity Recognition. 
+
+  Paper Title: `Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition`
+
+  Paper Authors: `Yuxuan Weng, Guoquan Wu, Tianyue Zheng, Yanbing Yang, Jun Luo`
 
 ## Special Issues
 
