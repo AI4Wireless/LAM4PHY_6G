@@ -30,7 +30,7 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
-- **[LLM-RIMSA](https://www.mdpi.com/1424-8220/25/16/5177)** (Aug 2025): LLM for FAS configurations.
+- **[LLM+FAS](https://www.mdpi.com/1424-8220/25/16/5177)** (Aug 2025): LLM for FAS configurations.
  
   Paper Title: `Integrating Large Language Models into Fluid Antenna Systems: A Survey`
 
