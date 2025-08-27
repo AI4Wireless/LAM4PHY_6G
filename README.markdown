@@ -36,7 +36,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Tingsong Deng,Yan Gao,Tong Zhang, Mingjie Shao, Wanli Ni, and Hao Xu`
   
-Pre-trained LAMs, adapted from NLP and CV, are applied to physical layer tasks through preprocessing, fine-tuning, and output alignment. Key applications include:
+
 
 - **[LLM-RIMSA](https://arxiv.org/abs/2508.12728)** (Aug 2025): LLM for RIS configurations.
  
