@@ -281,6 +281,11 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `Building 6G Radio Foundation Models with Transformer Architectures`
 
   Paper Authors: `Ahmed Aboulfotouh, Ashkan Eshaghbeigi, Hatem Abou-Zeid`
+- **[MSM FoundationModel](https://arxiv.org/abs/2411.09849)** (Nov 2024): pretraining foundational DL models on radio signals.  
+
+  Paper Title: `Self-Supervised Radio Pre-training: Toward Foundational Models for Spectrogram Learning`
+
+  Paper Authors: `Ahmed Aboulfotouh, Ashkan Eshaghbeigi, Dimitrios Karslidis, Hatem Abou-Zeid`
 
 - **[LWM](https://arxiv.org/abs/2411.08872)** (Nov 2024): Universal feature extractor for beam prediction and LoS/NLoS classification.  
 
