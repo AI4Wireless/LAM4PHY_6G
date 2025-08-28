@@ -232,7 +232,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Yucheng Sheng, Jiacheng Wang, Xingyu Zhou, Le Liang, Hao Ye, Shi Jin, Geoffrey Ye Li`
 
-  - **[IQFM](https://arxiv.org/abs/2506.06718)** (June 2025): Wireless Foundational Model for I/Q Streams.
+- **[IQFM](https://arxiv.org/abs/2506.06718)** (June 2025): Wireless Foundational Model for I/Q Streams.
 
   Paper Title: `IQFM – A Wireless Foundational Model for I/Q Streams in AI-Native 6G`
 
