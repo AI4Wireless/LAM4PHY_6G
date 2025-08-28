@@ -276,8 +276,13 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `Prompt-Enabled Large AI Models for CSI Feedback`
 
   Paper Authors: `Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin`
+- **[ViT-enabled MSM](https://arxiv.org/abs/2411.09996)** (Nov 2024): a radio foundation model for spectrogram learning.  
 
-- **[LWM](https://arxiv.org/abs/2411.08872)** (Nov 2024): Universal feature extractor for beam prediction and LoS/NLoS classification. [Source code](https://huggingface.co/wi-lab)
+  Paper Title: `Building 6G Radio Foundation Models with Transformer Architectures`
+
+  Paper Authors: `Ahmed Aboulfotouh, Ashkan Eshaghbeigi, Hatem Abou-Zeid`
+
+- **[LWM](https://arxiv.org/abs/2411.08872)** (Nov 2024): Universal feature extractor for beam prediction and LoS/NLoS classification.  
 
   Paper Title: `Large Wireless Model (LWM): A Foundation Model for Wireless Channels`
 
