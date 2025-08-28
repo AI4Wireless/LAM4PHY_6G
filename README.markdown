@@ -188,6 +188,11 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `WiFo-CF: Wireless Foundation Model for CSI Feedback`
 
   Paper Authors: `Liu Xuanyu, Gao Shijian, Liu Boxun, Cheng Xiang, Yang Liuqing`
+- **[CFM](https://arxiv.org/abs/2507.13637)** (Jul 2025): tackle channel-related tasks through a pretrained, universal channel feature extractor.
+
+  Paper Title: `Towards channel foundation models (CFMs): Motivations, methodologies and opportunities`
+
+  Paper Authors: `Jun Jiang, Yuan Gao, Xinyi Wu, Shugong Xu`
 
 - **[FM-Fi 2.0](https://ieeexplore.ieee.org/document/11098684)** (Jul 2025): Foundation Model for Cross-Modal Multi-Person Human Activity Recognition.
 
