@@ -298,6 +298,11 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition`
 
   Paper Authors: `Yuxuan Weng, Guoquan Wu, Tianyue Zheng, Yanbing Yang, Jun Luo`
+- **[SWiT](https://arxiv.org/abs/2302.07000)** (Feb 2023):  Foundation Model for Wireless Localization. 
+
+  Paper Title: `Self-Supervised and Invariant Representations for Wireless Localization`
+
+  Paper Authors: `Artan Salihu, Stefan Schwarz, Markus Rupp`
 
 ## Special Issues
 
