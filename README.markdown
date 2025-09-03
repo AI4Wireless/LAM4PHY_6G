@@ -186,6 +186,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[MUSE-FM](https://arxiv.org/abs/2509.01967)** (Aug 2025): : Multi-task Environment-aware Foundation Model for Wireless Communications.
+
+  Paper Title: `MUSE-FM: Multi-task Environment-aware Foundation Model for Wireless Communications`
+
+  Paper Authors: `Tianyue Zheng, Jiajia Guo, Linglong Dai, Shi Jin, Jun Zhang`
+
+  
 - **[ReQuestNet](https://arxiv.org/abs/2508.08790)** (Aug 2025):  Foundational model for Channel Estimations.
 
   Paper Title: `ReQuestNet: A Foundational Learning model for Channel Estimation`
