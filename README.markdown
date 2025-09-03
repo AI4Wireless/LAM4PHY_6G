@@ -109,7 +109,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
 - **[LVM4CF](https://arxiv.org/abs/2505.08566)** (May 2025): LLaMA for codebook-based CSI feedback.
  
-  Paper Title: `Large Sequence Model for MIMO Equalization in Fully Decoupled Radio Access Network`
+  Paper Title: `Extract the Best, Discard the Rest: CSI Feedback with Offline Large AI Models`
 
   Paper Authors: `Jialin Zhuang, Yafei Wang, Hongwei Hou, Yu Han, Wenjin Wang, Shi Jin, Jiangzhou Wang`
 
