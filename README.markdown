@@ -31,6 +31,14 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+
+- **[Port-LLM](https://arxiv.org/abs/2509.01121)** (Aug 2025): LLM for FAS configurations.
+ 
+  Paper Title: `Fluid Antenna Port Prediction based on Large Language Models`
+
+  Paper Authors: `Yali Zhang, Haifan Yin, Weidong Li, Emil Bjornson, Merouane Debbah`
+  
+
 - **[LLM+FAS](https://www.mdpi.com/1424-8220/25/16/5177)** (Aug 2025): LLM for FAS configurations.
  
   Paper Title: `Integrating Large Language Models into Fluid Antenna Systems: A Survey`
