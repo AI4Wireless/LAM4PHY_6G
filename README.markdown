@@ -333,9 +333,11 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 - **[Edge-Enabled Collaboration Between Large-scale and Lightweight Models in Sensor-Cloud Networks](https://www.comsoc.org/publications/magazines/ieee-network/cfp/edge-enabled-collaboration-between-large-scale-and)** (Deadline: 1 October 2025): IEEE Network. Guest editors:Tian Wang, Yao Liu, Geyong Min,
 Nektarios Georgalas, and Yan Zhang.
 
+-----------------------
+
 - **[Large AI Models for the Internet of Everything](https://www.comsoc.org/publications/magazines/ieee-network/cfp/large-ai-models-internet-everything)** (Deadline: 1 September 2025): IEEE Network. Guest editors: Feibo Jiang, Kezhi Wang, Xingqin Lin, Merouane Debbah, and Zhu Han.
 
------------------------
+
  
 - **[Large AI Models for Communications](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/large-ai-models-communications)** (Deadline: 31 July 2025): IEEE Communications Magazine. Guest editors: Kezhi Wang, Feibo Jiang, Merouane Debbah, and Zhu Han.
  
