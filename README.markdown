@@ -16,6 +16,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
 ## Overview
 - **[Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)** (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.
+- **[LLLM-Enhanced Space-Air-Ground-Sea Integrated Networks](https://arxiv.org/pdf/2509.02540)** (Sept. 2025): Halvin Yang, Sangarapillai Lambotharan, Mahsa Derakhshani, and Lajos Hanzo.
 - **[Large AI Model-Enabled Secure Communications in Low-Altitude Wireless Networks: Concepts, Perspectives and Case Study](https://arxiv.org/abs/2508.00256)** (Aug 2025): Chuang Zhang, Geng Sun, Jiacheng Wang, Yijing Lin, Weijie Yuan, Sinem Coleri, Dusit Niyato, Tony Q. S. Quek.
 - **[Large Language Models for Wireless Communications: From Adaptation to Autonomy](https://arxiv.org/abs/2507.21524)** (Jul 2025): Le Liang, Hao Ye, Yucheng Sheng, Ouya Wang, Jiacheng Wang, Shi Jin, and Geoffrey Ye Li.
 - **[From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications](https://arxiv.org/abs/2505.22311)** (May 2025): Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Octavia A. Dobre, and Merouane Debbah.
