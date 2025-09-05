@@ -32,6 +32,11 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[MLLM](https://arxiv.org/abs/2509.03837)** (Sep 2025): MLLM for prediction of communication link quality metric.
+ 
+  Paper Title: `Vehicle-to-Infrastructure Collaborative Spatial Perception via Multimodal Large Language Models`
+
+  Paper Authors: `YKimia Ehsani and Walid Saad`
 
 - **[Port-LLM](https://arxiv.org/abs/2509.01121)** (Aug 2025): LLM for FAS configurations.
  
