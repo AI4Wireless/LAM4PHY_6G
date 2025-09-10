@@ -279,7 +279,11 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `6G WavesFM: A Foundation Model for Sensing, Communication, and Localization`
 
   Paper Authors: `Ahmed Aboulfotouh, Elsayed Mohammed, Hatem Abou-Zeid`
+- **[CSI-CLIP](https://arxiv.org/abs/2502.11965)** (Feb 2025): MIMO wireless channel foundation model.
 
+  Paper Title: `A MIMO Wireless Channel Foundation Model via CIR-CSI Consistency`
+
+  Paper Authors: `Jun Jiang; Wenjun Yu; Yunfan Li; Yuan Gao; Shugong Xu`
   
 - **[WirelessGPT](https://ieeexplore.ieee.org/document/11036155)** (Feb 2025): Multi-task model for communication and sensing.
 
