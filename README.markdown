@@ -32,6 +32,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[SCA-LLM](https://arxiv.org/abs/2509.08139)** (Sep 2025): LLM for Spectral-Attentive Channel Prediction.
+ 
+  Paper Title: `SCA-LLM: Spectral-Attentive Channel Prediction with Large Language Models in MIMO-OFDM`
+
+  Paper Authors: `Ke He, Le He, Lisheng Fan, Xianfu Lei, Thang X. Vu, George K. Karagiannidis, Symeon Chatzinotas`
+
 - **[MLLM](https://arxiv.org/abs/2509.03837)** (Sep 2025): MLLM for prediction of communication link quality metric.
  
   Paper Title: `Vehicle-to-Infrastructure Collaborative Spatial Perception via Multimodal Large Language Models`
