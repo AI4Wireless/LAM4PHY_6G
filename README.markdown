@@ -356,6 +356,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 ## Special Issues
 
  
+ 
 - **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://www.springeropen.com/collections/imen)** (Deadline: 31 December 2025): EURASIP Journal on Wireless Communications and Networking. Guest editors: Peiyan Yuan, Tarik Taleb, Chenyang Wang, Chuan Sun, Xiaoqiang Zhu, and Xiaoyan Zha.
 
 - **[Sustainable Large AI Models for Edge Intelligence](https://cis.ieee.org/images/files/Documents/call-for-special-issues/TAI/_SI_TAI_CFP.pdf)** (Deadline: 1 December 2025): IEEE Transactions on Artificial Intelligence. Guest editors: Dusit Niyato, Ruichen Zhang, Qinghua Lu, Shiwen Mao,and Paolo Bellavista.
