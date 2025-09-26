@@ -198,6 +198,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[MobiGPT](https://arxiv.org/abs/2509.18166)** (Sep 2025):  A unified structure capable of forecasting base station traffic, user app usage, and channel quality. .
+
+  Paper Title: `MobiGPT: A Foundation Model for Mobile Wireless Networks`
+
+  Paper Authors: `Xiaoqian Qi, Haoye Chai, Yong Li`
+
 - **[BERT4beam](https://arxiv.org/abs/2509.11056)** (Sep 2025):  BERT-based framework for beamforming optimization to handle multiple tasks with different system objectives and scales.
 
   Paper Title: `BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization`
