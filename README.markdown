@@ -32,6 +32,50 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[ChannelGPT](https://ieeexplore.ieee.org/abstract/document/11180834)** (Oct 2025): LLM for wireless multitasking.
+ 
+  Paper Title: `ChannelGPT: A Large Model toward Real-World Channel Foundation Model for 6G Environment Intelligence Communication`
+
+  Paper Authors: `Li Yu, Lianzheng Shi, Jianhua Zhang, Zhen Zhang, Yuxiang Zhang, Guangyi Liu`
+
+- **[SignalLLM](https://arxiv.org/abs/2509.17197v1)** (Sep 2025): LLM for general purpose signal processing.
+ 
+  Paper Title: `SignalLLM: A General-Purpose LLM Agent Framework for Automated Signal Processing`
+
+  Paper Authors: `Junlong Ke, Qiying Hu, Shenghai Yuan, Yuecong Xu, Jianfei Yang`
+
+- **[LLM4MG](https://arxiv.org/abs/2509.14711v1)** (Sep 2025): LLaMA for multipath generation via multi-modal sensory data.
+ 
+  Paper Title: `LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines`
+
+  Paper Authors: `Ziwei Huang, Shiliang Lu, Lu Bai, Xuesong Cai, and Xiang Cheng`
+
+- **[RadarLLM](https://arxiv.org/abs/2509.12089)** (Sep 2025): LLM for radar target detection.
+ 
+  Paper Title: `RadarLLM: Adapting Pretrained Large Language Models for Marine Radar Target Detection with Preference-aware Loss`
+
+  Paper Authors: `Qiying Hu`
+
+
+- **[LPC-FT](https://arxiv.org/abs/2509.06506v1)** (Sep 2025): LLaMA for multipath generation via multi-modal sensory data.
+ 
+  Paper Title: `LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines`
+
+  Paper Authors: `Ziwei Huang, Shiliang Lu, Lu Bai, Xuesong Cai, and Xiang Cheng`
+
+- **[LLM4SAGSIN](https://arxiv.org/abs/2509.02540)** (Sep 2025): LLaMA for path prediction and semantic reconstruction.
+ 
+  Paper Title: `LLM-Enhanced Space-Air-Ground-Sea Integrated Networks`
+
+  Paper Authors: `Halvin Yang, Sangarapillai Lambotharan, Mahsa Derakhshani, Lajos Hanzo`
+
+- **[LLM-CF](https://ieeexplore.ieee.org/document/11162173)** (Sep 2025): LLM for CSI feedback exploiting temporal and bi-direction correlation.
+ 
+  Paper Title: `Large Language Model-based CSI Feedback for Massive MIMO Systems`
+
+  Paper Authors: `Seokhyun Jeong, Jihoon Moon, Hokyung Kim, Hyunjun Kwon, Byonghyo Shim`
+
+
 - **[SCA-LLM](https://arxiv.org/abs/2509.08139)** (Sep 2025): LLM for Spectral-Attentive Channel Prediction.
  
   Paper Title: `SCA-LLM: Spectral-Attentive Channel Prediction with Large Language Models in MIMO-OFDM`
