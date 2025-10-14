@@ -32,6 +32,13 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+
+- **[CPLLM&BFLLM](https://arxiv.org/abs/2510.10561)** (Oct 2025): LLM for channel prediction and beamforming for LEO satellite communications.
+ 
+  Paper Title: `Large Language Model-Empowered Channel Prediction and Predictive Beamforming for LEO Satellite Communications`
+
+  Paper Authors: `Zhixiong Chen, Hyundong Shin, Arumugam Nallanathan, Jonathon Chambers`
+
 - **[ChannelGPT](https://ieeexplore.ieee.org/abstract/document/11180834)** (Oct 2025): LLM for wireless multitasking.
  
   Paper Title: `ChannelGPT: A Large Model toward Real-World Channel Foundation Model for 6G Environment Intelligence Communication`
@@ -56,7 +63,6 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Qiying Hu`
 
-
 - **[LPC-FT](https://arxiv.org/abs/2509.06506v1)** (Sep 2025): LLaMA for multipath generation via multi-modal sensory data.
  
   Paper Title: `LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines`
@@ -74,7 +80,6 @@ If there are any omissions in the collection of the papers, please feel free to 
   Paper Title: `Large Language Model-based CSI Feedback for Massive MIMO Systems`
 
   Paper Authors: `Seokhyun Jeong, Jihoon Moon, Hokyung Kim, Hyunjun Kwon, Byonghyo Shim`
-
 
 - **[SCA-LLM](https://arxiv.org/abs/2509.08139)** (Sep 2025): LLM for Spectral-Attentive Channel Prediction.
  
