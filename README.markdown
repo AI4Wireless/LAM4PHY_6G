@@ -421,9 +421,11 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   
 - **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://www.springeropen.com/collections/imen)** (Deadline: 31 December 2025): EURASIP Journal on Wireless Communications and Networking. Guest editors: Peiyan Yuan, Tarik Taleb, Chenyang Wang, Chuan Sun, Xiaoqiang Zhu, and Xiaoyan Zha.
 
+- **[Application of Large AI Models to 6G Wireless Communications](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001132)** (Deadline: 20 December 2025): IET Communications. Guest editors: Feibo Jiang, Jianhua He,  Kezhi Wang, Wei  Liang, Xiaomin  Chen, and Xingqin Lin.
+
 - **[Sustainable Large AI Models for Edge Intelligence](https://cis.ieee.org/images/files/Documents/call-for-special-issues/TAI/_SI_TAI_CFP.pdf)** (Deadline: 1 December 2025): IEEE Transactions on Artificial Intelligence. Guest editors: Dusit Niyato, Ruichen Zhang, Qinghua Lu, Shiwen Mao,and Paolo Bellavista.
 
-
+- **[From Large AI Models to Agentic AI: Toward Intelligent 6G Networks](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/large-ai-models-agentic-ai-toward)** (Deadline: 1 December 2025): IEEE Wireless Communications. Guest editors: Feibo Jiang, Kezhi Wang, Guangyi Liu, Tony Q. S. Quek, and Xianbin Wang.
 -----------------------
 
 - **[Edge-Enabled Collaboration Between Large-scale and Lightweight Models in Sensor-Cloud Networks](https://www.comsoc.org/publications/magazines/ieee-network/cfp/edge-enabled-collaboration-between-large-scale-and)** (Deadline: 1 October 2025): IEEE Network. Guest editors:Tian Wang, Yao Liu, Geyong Min,
