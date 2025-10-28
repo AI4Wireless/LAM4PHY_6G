@@ -32,6 +32,11 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[CNN-GPT2](https://arxiv.org/abs/2510.22557)** (Oct 2025): CNN+GPT-2 for near field beam prediction.
+ 
+  Paper Title: `Large-Model AI for Near Field Beam Prediction: A CNN-GPT2 Framework for 6G XL-MIMO`
+
+  Paper Authors: `Wang Liu, Cunhua Pan, Hong Ren, Wei Zhang, Cheng-Xiang Wang, Jiangzhou Wang`
 
 - **[CPLLM&BFLLM](https://arxiv.org/abs/2510.10561)** (Oct 2025): LLM for channel prediction and beamforming for LEO satellite communications.
  
