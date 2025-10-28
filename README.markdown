@@ -415,16 +415,19 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 ## Special Issues
 
- 
- 
+ - **[Foundation Model Empowered Intelligent Networks at the AI-Native Edge](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/foundation-model-empowered-intelligent-networks-ai-native-edge)** (Deadline: 1 February  2026): IEEE Transactions on Network Science and Engineering. Guest editors: Xiang Cheng, Sinem Coleri, Javier Gozalvez, Shijian Gao, and Bile Peng.
+
+- **[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)** (Deadline: 1 January 2026): IEEE Transactions on Cognitive Communications and Networking. Guest editors: Ruichen Zhang, Yonghui Li, Ping Wang, Merouane Debbah, and Sumei Sun.
+  
 - **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://www.springeropen.com/collections/imen)** (Deadline: 31 December 2025): EURASIP Journal on Wireless Communications and Networking. Guest editors: Peiyan Yuan, Tarik Taleb, Chenyang Wang, Chuan Sun, Xiaoqiang Zhu, and Xiaoyan Zha.
 
 - **[Sustainable Large AI Models for Edge Intelligence](https://cis.ieee.org/images/files/Documents/call-for-special-issues/TAI/_SI_TAI_CFP.pdf)** (Deadline: 1 December 2025): IEEE Transactions on Artificial Intelligence. Guest editors: Dusit Niyato, Ruichen Zhang, Qinghua Lu, Shiwen Mao,and Paolo Bellavista.
 
-- **[Edge-Enabled Collaboration Between Large-scale and Lightweight Models in Sensor-Cloud Networks](https://www.comsoc.org/publications/magazines/ieee-network/cfp/edge-enabled-collaboration-between-large-scale-and)** (Deadline: 1 October 2025): IEEE Network. Guest editors:Tian Wang, Yao Liu, Geyong Min,
-Nektarios Georgalas, and Yan Zhang.
 
 -----------------------
+
+- **[Edge-Enabled Collaboration Between Large-scale and Lightweight Models in Sensor-Cloud Networks](https://www.comsoc.org/publications/magazines/ieee-network/cfp/edge-enabled-collaboration-between-large-scale-and)** (Deadline: 1 October 2025): IEEE Network. Guest editors:Tian Wang, Yao Liu, Geyong Min,
+Nektarios Georgalas, and Yan Zhang.
 
 - **[Large AI Models for the Internet of Everything](https://www.comsoc.org/publications/magazines/ieee-network/cfp/large-ai-models-internet-everything)** (Deadline: 1 September 2025): IEEE Network. Guest editors: Feibo Jiang, Kezhi Wang, Xingqin Lin, Merouane Debbah, and Zhu Han.
 
