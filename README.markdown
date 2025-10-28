@@ -417,6 +417,8 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
  - **[Foundation Model Empowered Intelligent Networks at the AI-Native Edge](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/foundation-model-empowered-intelligent-networks-ai-native-edge)** (Deadline: 1 February  2026): IEEE Transactions on Network Science and Engineering. Guest editors: Xiang Cheng, Sinem Coleri, Javier Gozalvez, Shijian Gao, and Bile Peng.
 
+- **[Agentic AI for 6G Networks](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/call-for-papers/special-issue-on-agentic-ai-for-6g-networks/)** (Deadline: 1 January 2026): Digital Communications and Networks. Guest editors: Haotong Cao, Weiwei Jiang, Shahid Mumtaz, and Mohsen Guizani.
+- 
 - **[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)** (Deadline: 1 January 2026): IEEE Transactions on Cognitive Communications and Networking. Guest editors: Ruichen Zhang, Yonghui Li, Ping Wang, Merouane Debbah, and Sumei Sun.
   
 - **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://www.springeropen.com/collections/imen)** (Deadline: 31 December 2025): EURASIP Journal on Wireless Communications and Networking. Guest editors: Peiyan Yuan, Tarik Taleb, Chenyang Wang, Chuan Sun, Xiaoqiang Zhu, and Xiaoyan Zha.
