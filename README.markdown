@@ -415,6 +415,8 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 ## Special Issues
 
+ - **[From Large AI Models to Agentic AI: A Road Map to 6G](https://www.sciopen.com/journal/message_news/get_by_id?id=1982991796125925377&issn=1007-0214)** (Deadline: 31 March 2026): Tsinghua Science and Technology. Guest editors: Cunhua Pan, Feibo Jiang, Kezhi Wang, Marco DI RENZO, Dusit Niyato, and Ekram Hossain.
+  
  - **[Foundation Model Empowered Intelligent Networks at the AI-Native Edge](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/foundation-model-empowered-intelligent-networks-ai-native-edge)** (Deadline: 1 February  2026): IEEE Transactions on Network Science and Engineering. Guest editors: Xiang Cheng, Sinem Coleri, Javier Gozalvez, Shijian Gao, and Bile Peng.
 
 - **[Agentic AI for 6G Networks](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/call-for-papers/special-issue-on-agentic-ai-for-6g-networks/)** (Deadline: 1 January 2026): Digital Communications and Networks. Guest editors: Haotong Cao, Weiwei Jiang, Shahid Mumtaz, and Mohsen Guizani.
