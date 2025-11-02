@@ -32,6 +32,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[GPT2+FAS](https://ieeexplore.ieee.org/document/11219181)** (Oct 2025):LLM for Port Selection and Beamformin.
+ 
+  Paper Title: `LLM-Based Port Selection and Beamforming for Multiuser MISO with Fluid Antenna Systems`
+
+  Paper Authors: `Wei Guo; Kai Liang; Gan Zheng; Xiaoli Chu; Guorong Zhou; Kai-Kit Wong, Chan-Byoung Chae`
+
 - **[CNN-GPT2](https://arxiv.org/abs/2510.22557)** (Oct 2025): CNN+GPT-2 for near field beam prediction.
  
   Paper Title: `Large-Model AI for Near Field Beam Prediction: A CNN-GPT2 Framework for 6G XL-MIMO`
@@ -123,19 +129,19 @@ If there are any omissions in the collection of the papers, please feel free to 
  
   Paper Title: `Leveraging Pre-Trained Large Language Models for CSI Feedback in Massive MIMO Systems`
 
-  Paper Authors: `Yiming Cui, Jiajia Guo, Chao-Kai Wen, Shi Jin, En Tong`
+  Paper Authors: `Yiming Cui, Jiajia , Chao-Kai Wen, Shi Jin, En Tong`
 
 - **[LVM4CSI](https://arxiv.org/abs/2507.05121)** (Jul 2025): ConvNeXt/DINO-X for CSI tasks including channel estimation, user localization, and sensing.
  
   Paper Title: `LVM4CSI: Enabling Direct Application of Pre-Trained Large Vision Models for Wireless Channel Tasks`
 
-  Paper Authors: `Jiajia Guo, Peiwen Jiang, Chao-Kai Wen, Shi Jin, Jun Zhang`
+  Paper Authors: `Jiajia , Peiwen Jiang, Chao-Kai Wen, Shi Jin, Jun Zhang`
   
 - **[M2BeamLLM](https://arxiv.org/abs/2506.14532)** (Jun 2025): Multimodal beam prediction with sensor data fusion.
  
   Paper Title: `M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models`
 
-  Paper Authors: `Can Zheng, Jiguang He, Chung G. Kang, Guofa Cai, Zitong Yu, Merouane Debbah`
+  Paper Authors: `Can Zheng, Jiguang He, Chung G. Kang, fa Cai, Zitong Yu, Merouane Debbah`
 
 - **[DeepForm](https://arxiv.org/abs/2506.08551)** (Jun 2025): LLM for communication system formulation.
  
@@ -159,7 +165,7 @@ If there are any omissions in the collection of the papers, please feel free to 
  
   Paper Title: `Bridging the Modality Gap: Enhancing Channel Prediction with Semantically Aligned LLMs and Knowledge Distillation`
 
-  Paper Authors: `Zhaoyang Li, Qianqian Yang, Zehui Xiong, Zhiguo Shi, Tony Q. S. Quek`
+  Paper Authors: `Zhaoyang Li, Qianqian Yang, Zehui Xiong, Zhi Shi, Tony Q. S. Quek`
 
 - **[FAS-LLM](https://arxiv.org/abs/2505.09751)** (May 2025): LLaMA for channel prediction in OTFS-enabled satellite-FAS links.
  
@@ -201,13 +207,13 @@ If there are any omissions in the collection of the papers, please feel free to 
  
   Paper Title: `BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models`
 
-  Paper Authors: `Can Zheng, Jiguang He, Guofa Cai, Zitong Yu, Chung G. Kang`
+  Paper Authors: `Can Zheng, Jiguang He, fa Cai, Zitong Yu, Chung G. Kang`
 
 - **[2DLAM](https://openreview.net/forum?id=AbmUZ4oJoP)** (Mar 2025): ImageGPT for joint delay-Doppler estimation.
  
   Paper Title: `2DLAM: Joint Delay-Doppler Estimation in UAV mmWave System via Large AI Model`
 
-  Paper Authors: `Daixin Xie, Chenxi Liu, Wei Wang, Fengxian Guo, Xiaoling Hu`
+  Paper Authors: `Daixin Xie, Chenxi Liu, Wei Wang, Fengxian , Xiaoling Hu`
 
 - **[Port-LLM](https://arxiv.org/abs/2502.09857)** (Feb 2025): GPT-2 for port selection in fluid antenna systems.
  
@@ -231,7 +237,7 @@ If there are any omissions in the collection of the papers, please feel free to 
  
   Paper Title: `Exploring the Potential of Large Language Models for Massive MIMO CSI Feedback`
 
-  Paper Authors: `Yiming Cui, Jiajia Guo, Chao-Kai Wen, Shi Jin, En Tong`
+  Paper Authors: `Yiming Cui, Jiajia , Chao-Kai Wen, Shi Jin, En Tong`
   
 - **[Multi-task LLM](https://arxiv.org/abs/2412.20772)** (Dec 2024): LAM for multiple physical lauyer tasks: signal detection, precoding and channel prediction.
  
@@ -262,7 +268,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Title: `BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization`
 
-  Paper Authors: `Yuhang Li, Yang Lu, Wei Chen, Bo Ai, Zhiguo Ding, Dusit Niyato`
+  Paper Authors: `Yuhang Li, Yang Lu, Wei Chen, Bo Ai, Zhi Ding, Dusit Niyato`
 
 
 - **[FM-O-RAN](https://ieeexplore.ieee.org/abstract/document/11152707)** (Sep 2025): FM-empowered Open Radio Access Network framework.
@@ -276,7 +282,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Title: `MUSE-FM: Multi-task Environment-aware Foundation Model for Wireless Communications`
 
-  Paper Authors: `Tianyue Zheng, Jiajia Guo, Linglong Dai, Shi Jin, Jun Zhang`
+  Paper Authors: `Tianyue Zheng, Jiajia , Linglong Dai, Shi Jin, Jun Zhang`
 
   
 - **[ReQuestNet](https://arxiv.org/abs/2508.08790)** (Aug 2025):  Foundational model for Channel Estimations.
@@ -312,7 +318,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Title: `A Foundation Model for DAS Signal Recognition and Visual Prompt Tuning of the Pre-trained Model for Downstream Tasks`
 
-  Paper Authors: `Kun Gui, Hongliang Ren, Shang Shi, Jin Lu, Changqiu Yu, Quanjun Cao, Guomin Gu, Qi Xuan`
+  Paper Authors: `Kun Gui, Hongliang Ren, Shang Shi, Jin Lu, Changqiu Yu, Quanjun Cao, min Gu, Qi Xuan`
   
 - **[ICWLM](https://arxiv.org/abs/2507.18167)** (Jul 2025): Multi-task LAM via in-Context learning.
 
@@ -381,7 +387,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Title: `Prompt-Enabled Large AI Models for CSI Feedback`
 
-  Paper Authors: `Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin`
+  Paper Authors: `Jiajia , Yiming Cui, Chao-Kai Wen, Shi Jin`
 - **[ViT-enabled MSM](https://arxiv.org/abs/2411.09996)** (Nov 2024): a radio foundation model for spectrogram learning.  
 
   Paper Title: `Building 6G Radio Foundation Models with Transformer Architectures`
