@@ -62,12 +62,6 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Junlong Ke, Qiying Hu, Shenghai Yuan, Yuecong Xu, Jianfei Yang`
 
-- **[LLM4MG](https://arxiv.org/abs/2509.14711v1)** (Sep 2025): LLaMA for multipath generation via multi-modal sensory data.
- 
-  Paper Title: `LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines`
-
-  Paper Authors: `Ziwei Huang, Shiliang Lu, Lu Bai, Xuesong Cai, and Xiang Cheng`
-
 - **[RadarLLM](https://arxiv.org/abs/2509.12089)** (Sep 2025): LLM for radar target detection.
  
   Paper Title: `RadarLLM: Adapting Pretrained Large Language Models for Marine Radar Target Detection with Preference-aware Loss`
