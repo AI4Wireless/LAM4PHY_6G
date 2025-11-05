@@ -32,6 +32,13 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+
+- **[LLM4PG](https://arxiv.org/abs/2511.02423)** (Oct 2025):LLM for Pathloss Map Generation.
+ 
+  Paper Title: `LLM4PG: Adapting Large Language Model for Pathloss Map Generation via Synesthesia of Machines`
+
+  Paper Authors: `Mingran Sun, Lu Bai, Xiang Cheng, Jianjun Wu`
+  
 - **[GPT2+FAS](https://ieeexplore.ieee.org/document/11219181)** (Oct 2025):LLM for Port Selection and Beamformin.
  
   Paper Title: `LLM-Based Port Selection and Beamforming for Multiuser MISO with Fluid Antenna Systems`
