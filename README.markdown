@@ -33,7 +33,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Pre-trained LAMs
 
 
-- **[LLM4PG](https://arxiv.org/abs/2511.02423)** (Oct 2025):LLM for Pathloss Map Generation.
+- **[LLM4PG](https://arxiv.org/abs/2511.02423)** (Nov 2025):LLM for Pathloss Map Generation.
  
   Paper Title: `LLM4PG: Adapting Large Language Model for Pathloss Map Generation via Synesthesia of Machines`
 
