@@ -259,9 +259,21 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[WiCo-PG](https://arxiv.org/abs/2511.15030)** (Nov 2025): ireless Channel Foundation Model for Pathloss Map Generation.
+
+  Paper Title: `WiCo-PG: Wireless Channel Foundation Model for Pathloss Map Generation via Synesthesia of Machines`
+
+  Paper Authors: `Mingran Sun, Lu Bai, Ziwei Huang, Xuesong Cai, Xiang Cheng, Jianjun Wu`
+
+- **[WiCo-MG](https://arxiv.org/abs/2511.15026)** (Nov 2025):  Wireless Channel Foundation Model for Multipath Generation .
+
+  Paper Title: `WiCo-MG: Wireless Channel Foundation Model for Multipath Generation via Synesthesia of Machines`
+
+  Paper Authors: `Zengrui Han, Lu Bai, Xuesong Cai, Xiang Cheng`
+  
 - **[Multimodal-WFMs](https://arxiv.org/abs/2511.15162)** (Nov 2025):  Multimodal Wireless Foundation Models.
 
-  Paper Title: ` Multimodal Wireless Foundation Models`
+  Paper Title: `Multimodal Wireless Foundation Models`
 
   Paper Authors: `Ahmed Aboulfotouh and Hatem Abou-Zeid`
 
