@@ -259,6 +259,11 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[Multimodal-WFMs](https://arxiv.org/abs/2511.15162)** (Nov 2025):  Multimodal Wireless Foundation Models.
+
+  Paper Title: ` Multimodal Wireless Foundation Models`
+
+  Paper Authors: `Ahmed Aboulfotouh and Hatem Abou-Zeid`
 
 - **[Tiny-WiFo](https://arxiv.org/abs/2511.04015)** (Nov 2025):  Lightweight Wireless Foundation Model for Channel Prediction.
 
