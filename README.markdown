@@ -77,6 +77,11 @@ If there are any omissions in the collection of the papers, please feel free to 
   Paper Title: `SignalLLM: A General-Purpose LLM Agent Framework for Automated Signal Processing`
 
   Paper Authors: `Junlong Ke, Qiying Hu, Shenghai Yuan, Yuecong Xu, Jianfei Yang`
+  - **[LLM4TS](https://arxiv.org/abs/2509.12110)** (Sep 2025): LLM for marine radar target detection.
+ 
+  Paper Title: `When marine radar target detection meets pretrained large language models`
+
+  Paper Authors: `Qiying Hu, Linping Zhang, Xueqian Wang, Gang Li, Yu Liu, Xiao-Ping Zhang`
 
 - **[RadarLLM](https://arxiv.org/abs/2509.12089)** (Sep 2025): LLM for radar target detection.
  
