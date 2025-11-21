@@ -33,6 +33,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Pre-trained LAMs
 
 
+- **[FM4Com](https://arxiv.org/abs/2511.05094)** (Nov 2025):Foundation Model for Scene-Adaptive Communication.
+ 
+  Paper Title: `FM4Com: Foundation Model for Scene-Adaptive Communication Strategy Optimization`
+
+  Paper Authors: `Zhaoyang Li, Shangzhuo Xie, Qianqian Yang`
+
+  
 - **[LLM4PG](https://arxiv.org/abs/2511.02423)** (Nov 2025):LLM for Pathloss Map Generation.
  
   Paper Title: `LLM4PG: Adapting Large Language Model for Pathloss Map Generation via Synesthesia of Machines`
