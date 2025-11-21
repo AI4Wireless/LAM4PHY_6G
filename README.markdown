@@ -77,7 +77,7 @@ If there are any omissions in the collection of the papers, please feel free to 
   Paper Title: `SignalLLM: A General-Purpose LLM Agent Framework for Automated Signal Processing`
 
   Paper Authors: `Junlong Ke, Qiying Hu, Shenghai Yuan, Yuecong Xu, Jianfei Yang`
-  - **[LLM4TS](https://arxiv.org/abs/2509.12110)** (Sep 2025): LLM for marine radar target detection.
+- **[LLM4TS](https://arxiv.org/abs/2509.12110)** (Sep 2025): LLM for marine radar target detection.
  
   Paper Title: `When marine radar target detection meets pretrained large language models`
 
@@ -89,7 +89,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Qiying Hu`
 
-- **[LPC-FT](https://arxiv.org/abs/2509.06506v1)** (Sep 2025): LLaMA for multipath generation via multi-modal sensory data.
+- **[LPC-FT](https://arxiv.org/abs/2509.06506)** (Sep 2025): LLaMA for multipath generation via multi-modal sensory data.
  
   Paper Title: `LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines`
 
