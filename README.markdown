@@ -273,7 +273,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
-- **[WiCo-PG](https://arxiv.org/abs/2511.15030)** (Nov 2025): ireless Channel Foundation Model for Pathloss Map Generation.
+- **[WiCo-PG](https://openreview.net/forum?id=FvCfhgbeFc)** (Nov 2025): Envisioning Neuro-Symbolic Wireless Foundation Models.
+
+  Paper Title: `Reasoning Meets Representation: Envisioning Neuro-Symbolic Wireless Foundation Models`
+
+  Paper Authors: `Jaron Fontaine, Mohammad Cheraghinia, John Strassner, Adnan Shahid, Eli De Poorter`
+  
+- **[WiCo-PG](https://arxiv.org/abs/2511.15030)** (Nov 2025): Wireless Channel Foundation Model for Pathloss Map Generation.
 
   Paper Title: `WiCo-PG: Wireless Channel Foundation Model for Pathloss Map Generation via Synesthesia of Machines`
 
