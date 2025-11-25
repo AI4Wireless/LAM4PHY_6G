@@ -34,6 +34,11 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[LLM4AMC](https://arxiv.org/abs/2511.18690)** (Nov 2025):LLM for Adaptive Modulation and Coding.
+ 
+  Paper Title: `LLM4AMC: Adapting Large Language Models for Adaptive Modulation and Coding`
+
+  Paper Authors: `Xinyu Pan, Boxun Liu, Xiang Cheng, Chen Chen`
 
 - **[FM4Com](https://arxiv.org/abs/2511.05094)** (Nov 2025):Foundation Model for Scene-Adaptive Communication.
  
