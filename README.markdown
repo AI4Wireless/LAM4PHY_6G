@@ -286,7 +286,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
-- **[WiCo-PG](https://openreview.net/forum?id=FvCfhgbeFc)** (Nov 2025): Envisioning Neuro-Symbolic Wireless Foundation Models.
+- **[FM Wi-Fi Sensing](https://arxiv.org/abs/2511.18792)** (Nov 2025): : Foundation Models for Zero-Shot Cross-Domain Wi-Fi Sensing.
+
+  Paper Title: `Scale What Counts, Mask What Matters: Evaluating Foundation Models for Zero-Shot Cross-Domain Wi-Fi Sensing`
+
+  Paper Authors: `Cheng Jiang, Yihe Yan, Yanxiang Wang, Chun Tung Chou, Wen Hu`
+  
+- **[WPFMs](https://openreview.net/forum?id=FvCfhgbeFc)** (Nov 2025): Envisioning Neuro-Symbolic Wireless Foundation Models.
 
   Paper Title: `Reasoning Meets Representation: Envisioning Neuro-Symbolic Wireless Foundation Models`
 
