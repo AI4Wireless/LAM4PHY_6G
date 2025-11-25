@@ -72,7 +72,15 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Li Yu, Lianzheng Shi, Jianhua Zhang, Zhen Zhang, Yuxiang Zhang, Guangyi Liu`
 
-- **[SignalLLM](https://arxiv.org/abs/2509.17197v1)** (Sep 2025): LLM for general purpose signal processing.
+  
+- **[LLM-Rx](https://ieeexplore.ieee.org/document/11207204)** (Sep 2025): LLM for Pilot-Free OTFS Transceiver.
+ 
+  Paper Title: `LLM-Enhanced Pilot-Free OTFS Transceiver for High-Mobility Communications`
+
+  Paper Authors: `Jiaming Cheng, Wei Chen, Bowen Yang, Bo Ai`
+  
+
+- **[SignalLLM](https://arxiv.org/abs/2509.17197)** (Sep 2025): LLM for general purpose signal processing.
  
   Paper Title: `SignalLLM: A General-Purpose LLM Agent Framework for Automated Signal Processing`
 
