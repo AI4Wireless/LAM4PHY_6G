@@ -35,12 +35,23 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Pre-trained LAMs
 
 
+- **[RadioSim Agent](https://arxiv.org/abs/2511.05912)** (Nov 2025):LLM as agents to perform ray-tracing simulation.
+ 
+  Paper Title: `RadioSim Agent: Combining Large Language Models and Deterministic EM Simulators for Interactive Radio Map Analysis`
+
+  Paper Authors: `Sajjad Hussain, Conor Brennan`
+
+- **[LLM-PASS](https://arxiv.org/abs/2511.09453)** (Nov 2025):LLM-enabled beam training for PASS.
+ 
+  Paper Title: `LLM Enabled Beam Training for Pinching Antenna Systems (PASS)`
+
+  Paper Authors: `Deqiao Gan, Xiaoxia Xu, Xiaohu Ge, Yuanwei Liu`
+
 - **[FM4Com](https://arxiv.org/abs/2511.05094)** (Nov 2025):Foundation Model for Scene-Adaptive Communication.
  
   Paper Title: `FM4Com: Foundation Model for Scene-Adaptive Communication Strategy Optimization`
 
   Paper Authors: `Zhaoyang Li, Shangzhuo Xie, Qianqian Yang`
-
   
 - **[LLM4PG](https://arxiv.org/abs/2511.02423)** (Nov 2025):LLM for Pathloss Map Generation.
  
