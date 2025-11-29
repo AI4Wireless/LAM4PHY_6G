@@ -293,9 +293,16 @@ If there are any omissions in the collection of the papers, please feel free to 
   Paper Title: `LLM4CP: Adapting Large Language Models for Channel Prediction`
 
   Paper Authors: `Boxun Liu, Xuanyu Liu, Shijian Gao, Xiang Cheng, Liuqing Yang`
+  
  
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
+
+- **[FPre-training Localization Model](https://iopscience.iop.org/article/10.1088/1742-6596/3135/1/012037/meta)** (Nov 2025): :  Pre-training Model for CSI-Based Indoor Localization.
+
+  Paper Title: `A Masked Pre-training Model for CSI-Based Indoor Localization`
+
+  Paper Authors: `Jiawei Zhang, Bolin Wang, Zhen Liang, Jun Hao and Yang Lu`
 
 - **[FM Wi-Fi Sensing](https://arxiv.org/abs/2511.18792)** (Nov 2025): : Foundation Models for Zero-Shot Cross-Domain Wi-Fi Sensing.
 
