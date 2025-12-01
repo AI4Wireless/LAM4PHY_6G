@@ -298,7 +298,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
-- **[FPre-training Localization Model](https://iopscience.iop.org/article/10.1088/1742-6596/3135/1/012037/meta)** (Nov 2025): :  Pre-training Model for CSI-Based Indoor Localization.
+- **[WiFo-2](https://arxiv.org/abs/2511.22222)** (Nov 2025): A revolutionary wireless foundation model for extensive CSI-based tasks
+
+  Paper Title: `Foundation Model for Intelligent Wireless Communications`
+
+  Paper Authors: `Boxun Liu, Xuanyu Liu, Shijian Gao, Xiang Cheng and Liuqing Yang`
+
+- **[FPre-training Localization Model](https://iopscience.iop.org/article/10.1088/1742-6596/3135/1/012037/meta)** (Nov 2025): Pre-training Model for CSI-Based Indoor Localization.
 
   Paper Title: `A Masked Pre-training Model for CSI-Based Indoor Localization`
 
