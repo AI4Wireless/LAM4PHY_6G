@@ -310,6 +310,15 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Jiawei Zhang, Bolin Wang, Zhen Liang, Jun Hao and Yang Lu`
 
+
+ - **[WMLM](https://arxiv.org/abs/2511.21707)** (Nov 2025): Large Multimodal Model for Mobile Network.
+
+  Paper Title: `Sensing and Understanding the World over Air: A Large Multimodal Model for Mobile Networks`
+
+  Paper Authors: `Zhuoran Duan, Yuhao Wei, Guoshun Nan, Zijun Wang, Yan Yan, Lihua Xiong, Yuhan Ran, Ji Zhang, Jian Li, Qimei Cui, Xiaofeng Tao, Tony Q. S. Quek`
+
+  
+
 - **[FM Wi-Fi Sensing](https://arxiv.org/abs/2511.18792)** (Nov 2025): : Foundation Models for Zero-Shot Cross-Domain Wi-Fi Sensing.
 
   Paper Title: `Scale What Counts, Mask What Matters: Evaluating Foundation Models for Zero-Shot Cross-Domain Wi-Fi Sensing`
