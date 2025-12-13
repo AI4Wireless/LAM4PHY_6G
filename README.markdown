@@ -480,7 +480,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Ferhat Ozgur Catak, Murat Kuzlu, Umit Cali`
 
-- **[Prompt-Enabled LAM](https://arxiv.org/abs/2501.10629)** (Jan 2025): Transformer-based LAM for CSI feedback with expert knowledge prompts.
+- **[Prompt-Enabled LAM](https://ieeexplore.ieee.org/document/11299518)** (Jan 2025): Transformer-based LAM for CSI feedback with expert knowledge prompts.
 
   Paper Title: `Prompt-Enabled Large AI Models for CSI Feedback`
 
