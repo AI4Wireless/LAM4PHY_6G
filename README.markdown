@@ -34,6 +34,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[LLM4XCE](https://arxiv.org/abs/2512.08955)** (Nov 2025):LLM for XL-MIMO channel estimation.
+ 
+  Paper Title: `LLM4XCE: Large Language Models for Extremely Large-Scale Massive MIMO Channel Estimation`
+
+  Paper Authors: `Renbin Li, Shuangshuang Li, Peihao Dong`
+  
 - **[LLM4AMC](https://arxiv.org/abs/2511.18690)** (Nov 2025):LLM for Adaptive Modulation and Coding.
  
   Paper Title: `LLM4AMC: Adapting Large Language Models for Adaptive Modulation and Coding`
@@ -316,8 +322,6 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `Sensing and Understanding the World over Air: A Large Multimodal Model for Mobile Networks`
 
   Paper Authors: `Zhuoran Duan, Yuhao Wei, Guoshun Nan, Zijun Wang, Yan Yan, Lihua Xiong, Yuhan Ran, Ji Zhang, Jian Li, Qimei Cui, Xiaofeng Tao, Tony Q. S. Quek`
-
-  
 
 - **[FM Wi-Fi Sensing](https://arxiv.org/abs/2511.18792)** (Nov 2025): : Foundation Models for Zero-Shot Cross-Domain Wi-Fi Sensing.
 
