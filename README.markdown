@@ -317,7 +317,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Authors: `Jiawei Zhang, Bolin Wang, Zhen Liang, Jun Hao and Yang Lu`
 
 
- - **[WMLM](https://arxiv.org/abs/2511.21707)** (Nov 2025): Large Multimodal Model for Mobile Network.
+- **[WMLM](https://arxiv.org/abs/2511.21707)** (Nov 2025): Large Multimodal Model for Mobile Network.
 
   Paper Title: `Sensing and Understanding the World over Air: A Large Multimodal Model for Mobile Networks`
 
