@@ -304,6 +304,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[LASCO](https://arxiv.org/abs/2512.12170)** (Dec 2025): Large and Small Model Collaboration for CSI-based tasks
+
+  Paper Title: `Large and Small Model Collaboration for Air Interface`
+
+  Paper Authors: `Yiming Cui, Jiajia Guo, Xiao Li, Chao-Kai Wen, Shi Jin`
+
 - **[WiFo-2](https://arxiv.org/abs/2511.22222)** (Nov 2025): A revolutionary wireless foundation model for extensive CSI-based tasks
 
   Paper Title: `Foundation Model for Intelligent Wireless Communications`
