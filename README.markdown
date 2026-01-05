@@ -305,6 +305,18 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[WiFo-MUD](https://arxiv.org/abs/2601.00612)** (Jan 2026): Universal diffusion based foundation model for multi-user demodulation
+
+  Paper Title: `WiFo-MUD: Wireless Foundation Model for Heterogeneous Multi-User Demodulator`
+
+  Paper Authors: `Zonghui Yang, Shijian Gao, Xuesong Cai, Xiang Cheng, Liuqing Yang`
+
+- **[WMFM](https://arxiv.org/abs/2512.23897)** (Dec 2025): Contrastive learning based Wireless Multimodal Foundation Model
+
+  Paper Title: `Wireless Multimodal Foundation Model (WMFM): Integrating Vision and Communication Modalities for 6G ISAC Systems`
+
+  Paper Authors: `Mohammad Farzanullah, Han Zhang, Akram Bin Sediq, Ali Afana, Melike Erol-Kantarci`
+
 - **[LASCO](https://arxiv.org/abs/2512.12170)** (Dec 2025): Large and Small Model Collaboration for CSI-based tasks
 
   Paper Title: `Large and Small Model Collaboration for Air Interface`
