@@ -5,7 +5,7 @@ A collection of paper on Large AI Models (LAMs) for wireless physical layer appl
 Contributors：[Jiajia Guo](https://jiajiaguo.github.io/), [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), [Tianyue Zheng](https://scholar.google.com/citations?user=A_Xk7NIAAAAJ&hl=zh-CN), and [Peiwen Jiang](https://scholar.google.com/citations?user=AmUVb54AAAAJ).
 If there are any omissions in the collection of the papers, please feel free to contact Jiajia Guo.
 
-## Table of Contents (Update date: Nov. 11, 2025)
+## Table of Contents (Update date: Jan. 5, 2026)
 - [Overview](#overview)
 - [Pre-trained LAMs](#pre-trained-lams)
 - [Native LAMs](#native-lams)
