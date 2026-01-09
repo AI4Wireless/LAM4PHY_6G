@@ -465,7 +465,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `IQFM – A Wireless Foundational Model for I/Q Streams in AI-Native 6G`
 
   Paper Authors: `Omar Mashaal and Hatem Abou-Zeid`
-  
+
+- **[WTR](https://arxiv.org/abs/2505.19390)** (May 2025): LAM for Wireless Technology Recognition and Localization.  
+
+  Paper Title: `A Unified Foundation Model for Wireless Technology Recognition and Localization`
+
+  Paper Authors: `Mohammad Cheraghinia, Eli De Poorter, Jaron Fontaine, Merouane Debbah, Adnan Shahid`
 
 - **[SpectrumFM](https://arxiv.org/abs/2505.06256)** (May 2025): LAM for spectrum management. [Source code](https://github.com/ChunyuLiu188/SpectrumFM)
 
