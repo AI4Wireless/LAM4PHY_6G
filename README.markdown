@@ -305,6 +305,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[CSI-MAE](https://arxiv.org/abs/2601.03789)** (Jan 2026): A generalized CFM leveraging masked autoencoder for cross-scenario generalization
+
+  Paper Title: `CSI-MAE: A Masked Autoencoder-based Channel Foundation Model`
+
+  Paper Authors: `Jun Jiang, Xiaolong Ruan, Shugong Xu`
+
 - **[WiFo-MUD](https://arxiv.org/abs/2601.00612)** (Jan 2026): Universal diffusion based foundation model for multi-user demodulation
 
   Paper Title: `WiFo-MUD: Wireless Foundation Model for Heterogeneous Multi-User Demodulator`
