@@ -323,6 +323,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Zonghui Yang, Shijian Gao, Xuesong Cai, Xiang Cheng, Liuqing Yang`
 
+- **[PFM](https://arxiv.org/abs/2512.15562)** (Dec 2025): Predictive foundation model for channel acquistion and reducing pilot overhead
+
+  Paper Title: `Reducing Pilots in Channel Estimation With Predictive Foundation Models`
+
+  Paper Authors: `Xingyu Zhou, Le Liang, Hao Ye, Jing Zhang, Chao-Kai Wen, Shi Jin`
+
 - **[WMFM](https://arxiv.org/abs/2512.23897)** (Dec 2025): Contrastive learning based Wireless Multimodal Foundation Model
 
   Paper Title: `Wireless Multimodal Foundation Model (WMFM): Integrating Vision and Communication Modalities for 6G ISAC Systems`
