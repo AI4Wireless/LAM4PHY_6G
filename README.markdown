@@ -35,6 +35,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[AutoMAS](https://arxiv.org/abs/2511.18414)** (Nov 2025):LLM for algorithm selection for wireless.
+ 
+  Paper Title: `AutoMAS: A Generic Multi-Agent System for Algorithm Self-Adaptation in Wireless Networks`
+
+  Paper Authors: `Dingli Yuan, Jingchen Peng, Jie Fan, Boxiang Ren, Lu Yang, Peng Liu`
+
 - **[LLM4XCE](https://arxiv.org/abs/2512.08955)** (Nov 2025):LLM for XL-MIMO channel estimation.
  
   Paper Title: `LLM4XCE: Large Language Models for Extremely Large-Scale Massive MIMO Channel Estimation`
