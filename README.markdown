@@ -36,7 +36,7 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
-- **[LMM-PS](hhttps://arxiv.org/abs/2601.06211)** (Jan 2026):LMM for channel prediction and preemptive scheduling.
+- **[LMM-PS](https://arxiv.org/abs/2601.06211)** (Jan 2026):LMM for channel prediction and preemptive scheduling.
  
   Paper Title: `Large Multimodal Model-Aided Scheduling for 6G Autonomous Communications`
 
