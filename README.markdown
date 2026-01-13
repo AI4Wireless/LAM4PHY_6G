@@ -36,6 +36,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[LMM-PS](hhttps://arxiv.org/abs/2601.06211)** (Jan 2026):LMM for channel prediction and preemptive scheduling.
+ 
+  Paper Title: `Large Multimodal Model-Aided Scheduling for 6G Autonomous Communications`
+
+  Paper Authors: `Sunwoo Kim, Byonghyo Shim`
+
 - **[AutoMAS](https://arxiv.org/abs/2511.18414)** (Nov 2025):LLM for algorithm selection for wireless.
  
   Paper Title: `AutoMAS: A Generic Multi-Agent System for Algorithm Self-Adaptation in Wireless Networks`
