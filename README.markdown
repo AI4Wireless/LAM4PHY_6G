@@ -5,7 +5,7 @@ A collection of paper on Large AI Models (LAMs) for wireless physical layer appl
 Contributors：[Jiajia Guo](https://jiajiaguo.github.io/), [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), [Tianyue Zheng](https://scholar.google.com/citations?user=A_Xk7NIAAAAJ&hl=zh-CN), and [Peiwen Jiang](https://scholar.google.com/citations?user=AmUVb54AAAAJ).
 If there are any omissions in the collection of the papers, please feel free to contact Jiajia Guo.
 
-## Table of Contents (Update date: Jan. 5, 2026)
+## Table of Contents (Update date: Jan. 13, 2026)
 - [Overview](#overview)
 - [Pre-trained LAMs](#pre-trained-lams)
 - [Native LAMs](#native-lams)
@@ -35,6 +35,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   
 ## Pre-trained LAMs
+
+- **[LMM-PS](hhttps://arxiv.org/abs/2601.06211)** (Jan 2026):LMM for channel prediction and preemptive scheduling.
+ 
+  Paper Title: `Large Multimodal Model-Aided Scheduling for 6G Autonomous Communications`
+
+  Paper Authors: `Sunwoo Kim, Byonghyo Shim`
 
 - **[AutoMAS](https://arxiv.org/abs/2511.18414)** (Nov 2025):LLM for algorithm selection for wireless.
  
