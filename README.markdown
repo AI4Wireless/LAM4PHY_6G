@@ -565,14 +565,16 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 ## Special Issues
 
- - **[From Large AI Models to Agentic AI: A Road Map to 6G](https://www.sciopen.com/journal/message_news/get_by_id?id=1982991796125925377&issn=1007-0214)** (Deadline: 31 March 2026): Tsinghua Science and Technology. Guest editors: Cunhua Pan, Feibo Jiang, Kezhi Wang, Marco DI RENZO, Dusit Niyato, and Ekram Hossain.
+- **[Wireless Foundation Models for AI-native 6G and Beyond](https://signalprocessingsociety.org/events/ieee-jstsp-special-issue-wireless-foundation-models-ai-native-6g-and-beyond)** (Deadline: 15 May 2026): IEEE Journal of Selected Topics in Signal Processing. Guest editors: Le Liang，Jun Zhang, Chan-Byoung Chae, Lu Lu, Shugong Xu, Octavia A. Dobre, Geoffrey Ye Li.
+
+- **[From Large AI Models to Agentic AI: A Road Map to 6G](https://www.sciopen.com/journal/message_news/get_by_id?id=1982991796125925377&issn=1007-0214)** (Deadline: 31 March 2026): Tsinghua Science and Technology. Guest editors: Cunhua Pan, Feibo Jiang, Kezhi Wang, Marco DI RENZO, Dusit Niyato, and Ekram Hossain.
   
  - **[Foundation Model Empowered Intelligent Networks at the AI-Native Edge](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/foundation-model-empowered-intelligent-networks-ai-native-edge)** (Deadline: 1 February  2026): IEEE Transactions on Network Science and Engineering. Guest editors: Xiang Cheng, Sinem Coleri, Javier Gozalvez, Shijian Gao, and Bile Peng.
 
-- **[Agentic AI for 6G Networks](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/call-for-papers/special-issue-on-agentic-ai-for-6g-networks/)** (Deadline: 1 January 2026): Digital Communications and Networks. Guest editors: Haotong Cao, Weiwei Jiang, Shahid Mumtaz, and Mohsen Guizani.
+- **[Agentic AI for 6G Networks](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/call-for-papers/special-issue-on-agentic-ai-for-6g-networks/)** (Deadline: 15 February 2026): Digital Communications and Networks. Guest editors: Haotong Cao, Weiwei Jiang, Shahid Mumtaz, and Mohsen Guizani.
  
-- **[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)** (Deadline: 1 January 2026): IEEE Transactions on Cognitive Communications and Networking. Guest editors: Ruichen Zhang, Yonghui Li, Ping Wang, Merouane Debbah, and Sumei Sun.
-  
+- **[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)** (Deadline: 1 February 2026): IEEE Transactions on Cognitive Communications and Networking. Guest editors: Ruichen Zhang, Yonghui Li, Ping Wang, Merouane Debbah, and Sumei Sun.
+-----------------------  
 - **[Integrating Large Models and Edge Sensing in Next Generation Networks](https://www.springeropen.com/collections/imen)** (Deadline: 31 December 2025): EURASIP Journal on Wireless Communications and Networking. Guest editors: Peiyan Yuan, Tarik Taleb, Chenyang Wang, Chuan Sun, Xiaoqiang Zhu, and Xiaoyan Zha.
 
 - **[Application of Large AI Models to 6G Wireless Communications](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518636/homepage/call-for-papers/si-2025-001132)** (Deadline: 20 December 2025): IET Communications. Guest editors: Feibo Jiang, Jianhua He,  Kezhi Wang, Wei  Liang, Xiaomin  Chen, and Xingqin Lin.
@@ -580,7 +582,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 - **[Sustainable Large AI Models for Edge Intelligence](https://cis.ieee.org/images/files/Documents/call-for-special-issues/TAI/_SI_TAI_CFP.pdf)** (Deadline: 1 December 2025): IEEE Transactions on Artificial Intelligence. Guest editors: Dusit Niyato, Ruichen Zhang, Qinghua Lu, Shiwen Mao,and Paolo Bellavista.
 
 - **[From Large AI Models to Agentic AI: Toward Intelligent 6G Networks](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/large-ai-models-agentic-ai-toward)** (Deadline: 1 December 2025): IEEE Wireless Communications. Guest editors: Feibo Jiang, Kezhi Wang, Guangyi Liu, Tony Q. S. Quek, and Xianbin Wang.
------------------------
+
 
 - **[Edge-Enabled Collaboration Between Large-scale and Lightweight Models in Sensor-Cloud Networks](https://www.comsoc.org/publications/magazines/ieee-network/cfp/edge-enabled-collaboration-between-large-scale-and)** (Deadline: 1 October 2025): IEEE Network. Guest editors:Tian Wang, Yao Liu, Geyong Min,
 Nektarios Georgalas, and Yan Zhang.
