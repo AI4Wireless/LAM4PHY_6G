@@ -42,6 +42,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   Paper Title: `Large Multimodal Model-Aided Scheduling for 6G Autonomous Communications`
 
   Paper Authors: `Sunwoo Kim, Byonghyo Shim`
+  
+- **[LLM4XCE](https://arxiv.org/abs/2512.08955)** (Dec 2025):LMM for XL-MIMO channel estimation.
+ 
+  Paper Title: `LLM4XCE: Large Language Models for Extremely Large-Scale Massive MIMO Channel Estimation`
+
+  Paper Authors: `Renbin Li, Shuangshuang Li, Peihao Dong`
 
 - **[AutoMAS](https://arxiv.org/abs/2511.18414)** (Nov 2025):LLM for algorithm selection for wireless.
  
