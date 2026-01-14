@@ -49,6 +49,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Renbin Li, Shuangshuang Li, Peihao Dong`
 
+- **[MMSense](https://arxiv.org/abs/2511.12305)** (Dec 2025):Vision-based Foundation Model for Wireless Sensing.
+ 
+  Paper Title: `MMSense: Adapting Vision-based Foundation Model for Multi-task Multi-modal Wireless Sensing`
+
+  Paper Authors: `Zhizhen Li, Xuanhao Luo, Xueren Ge, Longyu Zhou, Xingqin Lin, Yuchen Liu`
+
 - **[AutoMAS](https://arxiv.org/abs/2511.18414)** (Nov 2025):LLM for algorithm selection for wireless.
  
   Paper Title: `AutoMAS: A Generic Multi-Agent System for Algorithm Self-Adaptation in Wireless Networks`
