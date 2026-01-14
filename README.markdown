@@ -318,6 +318,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[LWM-Spectro](https://arxiv.org/abs/2601.08780)** (Jan 2026):Foundation Model for Wireless Baseband Signal Spectrograms
+
+  Paper Title: `LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms`
+
+  Paper Authors: `Namhyun Kim, Sadjad Alikhani, Ahmed Alkhateeb`
+  
 - **[CSI-MAE](https://arxiv.org/abs/2601.03789)** (Jan 2026): A generalized CFM leveraging masked autoencoder for cross-scenario generalization
 
   Paper Title: `CSI-MAE: A Masked Autoencoder-based Channel Foundation Model`
