@@ -16,6 +16,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
 ## Overview
 - **[Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)** (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.
+- **[Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey](https://arxiv.org/abs/2601.03181)** (Jan 2026): Han Zhang, Mohammad Farzanullah, Mohammad Ghassemi, Akram Bin Sediq, Ali Afana, Melike Erol-Kantarci.
 - **[Large Artificial Intelligence Models for Future Wireless Communications](https://arxiv.org/abs/2601.06906)** (Jan 2026): Chong Huang, Gaojie Chen, Pei Xiao, Zhu Han, Rahim Tafazolli.
 - **[Large and Small Model Collaboration for Air Interface](https://arxiv.org/abs/2512.12170)** (Dec 2025): Yiming Cui, Jiajia Guo, Xiao Li, Chao-Kai Wen, Shi Jin.
 - **[A survey of foundation models for IoT: taxonomy and criteria-based analysis](https://link.springer.com/article/10.1007/s42486-025-00208-w)** (Nov. 2025): Hui Wei, Dong Yoon Lee, Shubham Rohal, Zhizhang Hu, Ryan Rossi, Shiwei Fang, abd Shijia Pan.
