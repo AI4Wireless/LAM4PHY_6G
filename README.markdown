@@ -37,6 +37,7 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+
 - **[LMM-PS](https://arxiv.org/abs/2601.06211)** (Jan 2026):LMM for channel prediction and preemptive scheduling.
  
   Paper Title: `Large Multimodal Model-Aided Scheduling for 6G Autonomous Communications`
@@ -330,6 +331,18 @@ If there are any omissions in the collection of the papers, please feel free to 
  
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
+
+- **[WiFo-E](https://arxiv.org/abs/2601.09186)** (Jan 2026): Foundation Model for End-to-End FDD Precoding.
+ 
+  Paper Title: `WiFo-E: A Scalable Wireless Foundation Model for End-to-End FDD Precoding in Communication Networks`
+
+  Paper Authors: `Weibo Wen, Shijian Gao, Haotian Zhang, Xiang Cheng, Liuqing Yang`
+
+- **[WiFo-M^2](https://arxiv.org/abs/2601.09179)** (Jan 2026): Multi-Modal Foundation Model to Empower Wireless Communications.
+ 
+  Paper Title: `WiFo-M^2: Plug-and-Play Multi-Modal Sensing via Foundation Model to Empower Wireless Communications`
+
+  Paper Authors: `Haotian Zhang, Shijian Gao, Xiang Cheng`
 
 - **[LWM-Spectro](https://arxiv.org/abs/2601.08780)** (Jan 2026):Foundation Model for Wireless Baseband Signal Spectrograms
 
