@@ -5,7 +5,7 @@ A collection of paper on Large AI Models (LAMs) for wireless physical layer appl
 Contributors：[Jiajia Guo](https://jiajiaguo.github.io/), [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), [Tianyue Zheng](https://scholar.google.com/citations?user=A_Xk7NIAAAAJ&hl=zh-CN), and [Peiwen Jiang](https://scholar.google.com/citations?user=AmUVb54AAAAJ).
 If there are any omissions in the collection of the papers, please feel free to contact Jiajia Guo.
 
-## Table of Contents (Update date: Jan. 13, 2026)
+## Table of Contents (Update date: Jan. 19, 2026)
 - [Overview](#overview)
 - [Pre-trained LAMs](#pre-trained-lams)
 - [Native LAMs](#native-lams)
@@ -16,6 +16,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
 ## Overview
 - **[Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)** (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.
+- **[Large Wireless Foundation Models: Stronger over Bigger](https://arxiv.org/abs/2601.10963)** (Jan 2026): Xiang Cheng, Boxun Liu, Xuanyu Liu, Xuesong Cai.
 - **[Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey](https://arxiv.org/abs/2601.03181)** (Jan 2026): Han Zhang, Mohammad Farzanullah, Mohammad Ghassemi, Akram Bin Sediq, Ali Afana, Melike Erol-Kantarci.
 - **[Large Artificial Intelligence Models for Future Wireless Communications](https://arxiv.org/abs/2601.06906)** (Jan 2026): Chong Huang, Gaojie Chen, Pei Xiao, Zhu Han, Rahim Tafazolli.
 - **[Large and Small Model Collaboration for Air Interface](https://arxiv.org/abs/2512.12170)** (Dec 2025): Yiming Cui, Jiajia Guo, Xiao Li, Chao-Kai Wen, Shi Jin.
