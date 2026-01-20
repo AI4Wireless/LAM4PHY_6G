@@ -93,7 +93,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Zhaoyang Li, Shangzhuo Xie, Qianqian Yang`
 
-- **[(CP-GPT](https://aclanthology.org/2025.emnlp-main.677/)** (Nov 2025):LLM for  Channel Prediction.
+- **[CP-GPT](https://aclanthology.org/2025.emnlp-main.677/)** (Nov 2025):LLM for  Channel Prediction.
  
   Paper Title: `A Generative Pre-Trained Language Model for Channel Prediction in Wireless Communications Systems`
 
