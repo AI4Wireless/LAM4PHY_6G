@@ -92,6 +92,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   Paper Title: `FM4Com: Foundation Model for Scene-Adaptive Communication Strategy Optimization`
 
   Paper Authors: `Zhaoyang Li, Shangzhuo Xie, Qianqian Yang`
+
+- **[(CP-GPT](https://aclanthology.org/2025.emnlp-main.677/)** (Nov 2025):LLM for  Channel Prediction.
+ 
+  Paper Title: `A Generative Pre-Trained Language Model for Channel Prediction in Wireless Communications Systems`
+
+  Paper Authors: `Bo Lin, Huanming Zhang, Yuhua Jiang, Yucong Wang, Tengyu Zhang, Shaoqiang Yan, Hongyao Li, Yihong Liu, Feifei Gao` 
   
 - **[LLM4PG](https://arxiv.org/abs/2511.02423)** (Nov 2025):LLM for Pathloss Map Generation.
  
