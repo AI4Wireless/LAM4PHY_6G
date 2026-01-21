@@ -38,7 +38,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[FTAlign-LLM](https://ieeexplore.ieee.org/document/11354487)** (Jan 2026):LMM for channel predictionn Cell-Free mMIMO Systems.
+ 
+  Paper Title: `Large Language Model-Driven Channel Prediction in Cell-Free mMIMO Systems`
 
+  Paper Authors: `Baolin Chong; Hancheng Lu; Dusit Niyato; Arumugam Nallanathan`
+  
 - **[LMM-PS](https://arxiv.org/abs/2601.06211)** (Jan 2026):LMM for channel prediction and preemptive scheduling.
  
   Paper Title: `Large Multimodal Model-Aided Scheduling for 6G Autonomous Communications`
