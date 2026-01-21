@@ -339,6 +339,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+
+- **[LMM-CE](https://ieeexplore.ieee.org/document/11347061)** (Jan 2026): Multimodal Large Model for Channel Estimation.
+ 
+  Paper Title: `Large Multimodal Model-Based Environment-Aware Channel Estimation`
+
+  Paper Authors: `Seungnyun Kim; Seokhyun Jeong; Jiao Wu; Byonghyo Shim; Moe Z. Win`
+
 - **[WiFo-E](https://arxiv.org/abs/2601.09186)** (Jan 2026): Foundation Model for End-to-End FDD Precoding.
  
   Paper Title: `WiFo-E: A Scalable Wireless Foundation Model for End-to-End FDD Precoding in Communication Networks`
