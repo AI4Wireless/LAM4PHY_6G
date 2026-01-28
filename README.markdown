@@ -344,6 +344,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[LMM-BM](https://ieeexplore.ieee.org/document/11360651)** (Jan 2026): Multimodal Large Model for Beam Management.
+ 
+  Paper Title: `Large Multimodal Model-Based Environment-Aware Beam Management`
+
+  Paper Authors: `Seungnyun Kim; Subham Saha; Seokhyun Jeong; Byonghyo Shim; Moe Z. Winn`
+  
 
 - **[LMM-CE](https://ieeexplore.ieee.org/document/11347061)** (Jan 2026): Multimodal Large Model for Channel Estimation.
  
