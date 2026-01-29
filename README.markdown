@@ -344,6 +344,20 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[RF-MatID](https://arxiv.org/abs/2601.20377)** (Jan 2026): Dataset and Benchmark for Radio Frequency Material Identification.
+ 
+  Paper Title: `RF-MatID: Dataset and Benchmark for Radio Frequency Material Identification`
+
+  Paper Authors: `Xinyan Chen, Qinchun Li, Ruiqin Ma, Jiaqi Bai, Li Yi, Jianfei Yang`
+  
+
+- **[WirelessJEPA](https://arxiv.org/abs/2601.20190)** (Jan 2026): Foundation Model for Spatio-temporal Wireless Latent Predictions.
+ 
+  Paper Title: `WirelessJEPA: A Multi-Antenna Foundation Model using Spatio-temporal Wireless Latent Predictions`
+
+  Paper Authors: `Viet Chu, Omar Mashaal, Hatem Abou-Zeidn`
+
+  
 - **[LMM-BM](https://ieeexplore.ieee.org/document/11360651)** (Jan 2026): Multimodal Large Model for Beam Management.
  
   Paper Title: `Large Multimodal Model-Based Environment-Aware Beam Management`
