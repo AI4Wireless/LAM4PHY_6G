@@ -344,6 +344,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+
+- **[HeterCSI](https://www.arxiv.org/abs/2601.18200)** (Jan 2026):  Channel-Adaptive Heterogeneous CSI Foundation Model.
+ 
+  Paper Title: `HeterCSI: Channel-Adaptive Heterogeneous CSI Pretraining Framework for Generalized Wireless Foundation Models`
+
+  Paper Authors: `Chenyu Zhang, Xinchen Lyu, Chenshan Ren, Shuhan Liu, Qimei Cui, Xiaofeng Tao`
+  
 - **[RF-MatID](https://arxiv.org/abs/2601.20377)** (Jan 2026): Dataset and Benchmark for Radio Frequency Material Identification.
  
   Paper Title: `RF-MatID: Dataset and Benchmark for Radio Frequency Material Identification`
