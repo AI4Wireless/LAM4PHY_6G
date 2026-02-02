@@ -692,7 +692,7 @@ Nektarios Georgalas, and Yan Zhang.
 
 ## Note
  
-If there are any omissions in the collection of the above papers, please feel free to contact [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ) at cuiyiming@seu.edu.cn, with a copy to [Jiajia Guo](https://jiajiaguo.github.io/) at jiajiaguo@seu.edu.cn.
+If there are any omissions in the collection of the above papers, please feel free to contact [Jiajia Guo](https://jiajiaguo.github.io/) at jiajiaguo@seu.edu.cn.
 
 ## License
 This project is licensed under the MIT License.
