@@ -362,6 +362,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Vahid Yazdnian, Yasaman Ghasempour`
 
+- **[FPM](https://arxiv.org/abs/2602.07586)** (Feb 2026): CKM Construction Framework Enabled by a Foundation Prior Model.
+ 
+  Paper Title: `A Scalable Cloud-Edge Collaborative CKM Construction Framework Enabled by a Foundation Prior Model`
+
+  Paper Authors: `Sixu Xiao, Yong Zeng, Haotian Rong, Yanqun Tang`
+
 - **[WirelessJEPA](https://arxiv.org/abs/2601.20190)** (Jan 2026): Wireless FM that Uses the Joint Embedding Predictive Architecture.
  
   Paper Title: `WirelessJEPA: A Multi-Antenna Foundation Model using Spatio-temporal Wireless Latent Predictions`
