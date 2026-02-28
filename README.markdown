@@ -344,6 +344,29 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[FM-RME](https://arxiv.org/abs/2602.22231)** (Feb 2026):  Multi-dimensional Radio Map Estimation.
+ 
+  Paper Title: `FM-RME: Foundation Model Empowered Radio Map Estimation`
+
+  Paper Authors: `Dong Yang, Yue Wang, Songyang Zhang, Yingshu Li, Zhipeng Cai, Zhi Tian`
+
+- **[AM-FM](https://arxiv.org/abs/2602.11200)** (Feb 2026): Ambient Intelligence and Sensing through WiFi.
+ 
+  Paper Title: `AM-FM: A Foundation Model for Ambient Intelligence Through WiFi`
+
+  Paper Authors: `Guozhen Zhu, Yuqian Hu, Sakila Jayaweera, Weihang Gao, Wei-Hsiang Wang, Jiaxuan Zhang, Beibei Wang, Chenshu Wu, K. J. Ray Liu`
+
+- **[MMFM4WCS](https://arxiv.org/abs/2602.04016)** (Feb 2026): Multi-modal FM for Physical-layer Wireless Systems.
+ 
+  Paper Title: `A Multi-Modal Foundational Model for Wireless Communication and Sensing`
+
+  Paper Authors: `Vahid Yazdnian, Yasaman Ghasempour`
+
+- **[WirelessJEPA](https://arxiv.org/abs/2601.20190)** (Jan 2026): Wireless FM that Uses the Joint Embedding Predictive Architecture.
+ 
+  Paper Title: `WirelessJEPA: A Multi-Antenna Foundation Model using Spatio-temporal Wireless Latent Predictions`
+
+  Paper Authors: `Viet Chu, Omar Mashaal, Hatem Abou-Zeid`
 
 - **[HeterCSI](https://www.arxiv.org/abs/2601.18200)** (Jan 2026):  Channel-Adaptive Heterogeneous CSI Foundation Model.
  
