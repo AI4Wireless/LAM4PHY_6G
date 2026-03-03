@@ -344,6 +344,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[TokenCom](https://arxiv.org/abs/2603.00482)** (Feb 2026):  VLM Framework Designed for Token Communications.
+ 
+  Paper Title: `TokenCom: Vision-Language Model for Multimodal and Multitask Token Communications`
+
+  Paper Authors: `Feibo Jiang, Siwei Tu, Li Dong, Xiaolong Li, Kezhi Wang, Cunhua Pan, Zhu Han, Jiangzhou Wang`
+  
 - **[FM-RME](https://arxiv.org/abs/2602.22231)** (Feb 2026):  Multi-dimensional Radio Map Estimation.
  
   Paper Title: `FM-RME: Foundation Model Empowered Radio Map Estimation`
