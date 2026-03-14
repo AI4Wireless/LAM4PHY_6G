@@ -344,6 +344,18 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[WiCo](https://arxiv.org/abs/2603.10343)** (Mar 2026):  Fine-tuned large language models (LLMs) for Channel Modeling (LLM4CM) and Wireless Channel Foundation Model (WiCo).
+ 
+  Paper Title: `Multi-Modal Intelligent Channel Modeling: From Fine-tuned LLMs to Pre-trained Foundation Models`
+
+  Paper Authors: `Lu Bai, Zengrui Han, Mingran Sun, Xiang Cheng`
+
+- **[LWM-Temporal](https://arxiv.org/abs/2603.10024)** (Feb 2026):  Operates in the angle-delay-time domain and introduces Sparse Spatio-Temporal Attention (SSTA).
+ 
+  Paper Title: `LWM-Temporal: Sparse Spatio-Temporal Attention for Wireless Channel Representation Learning`
+
+  Paper Authors: `Sadjad Alikhani, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb`
+
 - **[TokenCom](https://arxiv.org/abs/2603.00482)** (Feb 2026):  VLM Framework Designed for Token Communications.
  
   Paper Title: `TokenCom: Vision-Language Model for Multimodal and Multitask Token Communications`
