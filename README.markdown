@@ -344,6 +344,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[WWM](https://arxiv.org/pdf/2603.25216)** (Mar 2026): A multi-modal foundation framework predicting the spatiotemporal evolution of wireless channels.
+ 
+  Paper Title: `A Wireless World Model for AI-Native 6G Networks`
+
+  Paper Authors: `Ziqi Chen, Yi Ren, Yixuan Huang, Qi Sun, Nan Li, Yuhong Huang, Chih-Lin I, Yifan Li, Liang Xia`
+
 - **[WiCo](https://arxiv.org/abs/2603.10343)** (Mar 2026):  Fine-tuned large language models (LLMs) for Channel Modeling (LLM4CM) and Wireless Channel Foundation Model (WiCo).
  
   Paper Title: `Multi-Modal Intelligent Channel Modeling: From Fine-tuned LLMs to Pre-trained Foundation Models`
