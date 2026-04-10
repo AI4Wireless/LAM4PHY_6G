@@ -38,6 +38,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[LLM](https://arxiv.org/abs/2604.04028)** (Jan 2026):LLM for channel predictionn.
+ 
+  Paper Title: `Enhancing 6G Wireless Intelligence: Do LLMs Work for CSI Prediction?`
+
+  Paper Authors: `Mohsen Kazemian, Jürgen Jasperneite`
+
 - **[FTAlign-LLM](https://ieeexplore.ieee.org/document/11354487)** (Jan 2026):LMM for channel predictionn Cell-Free mMIMO Systems.
  
   Paper Title: `Large Language Model-Driven Channel Prediction in Cell-Free mMIMO Systems`
