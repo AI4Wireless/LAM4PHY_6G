@@ -45,7 +45,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Mohsen Kazemian, Jürgen Jasperneite`
 
-- **[PC-LLM](https://arxiv.org/abs/2603.00474)** (Apr 2026): LLM for Power Control.
+- **[PC-LLM](https://arxiv.org/abs/2603.00474)** (March 2026): LLM for Power Control.
  
   Paper Title: `Wireless Power Control Based on Large Language Models`
 
