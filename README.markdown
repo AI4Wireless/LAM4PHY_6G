@@ -344,6 +344,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[MCM](https://ieeexplore.ieee.org/abstract/document/11442291)** (Mar 2026): Pre-Trained Large Channel Models for Wireless Communication System.
+ 
+  Paper Title: `Scalable Pre-Trained Large Channel Models for Wireless Communication Systems`
+
+  Paper Authors: `Jianhua Guo; Zhongsheng Deng; Zhen Qiao; Junkai Zhang; Jiang Xue; Dusit Niyato; Zongben Xu`
+  
 - **[WWM](https://arxiv.org/pdf/2603.25216)** (Mar 2026): A multi-modal foundation framework predicting the spatiotemporal evolution of wireless channels.
  
   Paper Title: `A Wireless World Model for AI-Native 6G Networks`
