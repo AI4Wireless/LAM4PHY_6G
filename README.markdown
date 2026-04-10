@@ -1,6 +1,6 @@
 # Large AI Models for Wireless Physical Layer
 
-A collection of paper on Large AI Models (LAMs) for wireless physical layer applications, extended from the overview paper by [Jiajia Guo et al](https://arxiv.org/abs/2508.02314).  
+A collection of paper on Large AI Models (LAMs) for wireless physical layer applications, extended from the overview paper by [Jiajia Guo et al](https://ieeexplore.ieee.org/document/11440327/).  
 
 Contributors：[Jiajia Guo](https://jiajiaguo.github.io/), [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), [Tianyue Zheng](https://scholar.google.com/citations?user=A_Xk7NIAAAAJ&hl=zh-CN).
 If there are any omissions in the collection of the papers, please feel free to contact Jiajia Guo.
@@ -15,7 +15,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
 
 ## Overview
-- **[Large AI Models for Wireless Physical Layer](https://arxiv.org/abs/2508.02314)** (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.
+- **[Large AI Models for Wireless Physical Layer](https://ieeexplore.ieee.org/document/11440327/)** (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.
 - **[Large Wireless Foundation Models: Stronger over Bigger](https://arxiv.org/abs/2601.10963)** (Jan 2026): Xiang Cheng, Boxun Liu, Xuanyu Liu, Xuesong Cai.
 - **[Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey](https://arxiv.org/abs/2601.03181)** (Jan 2026): Han Zhang, Mohammad Farzanullah, Mohammad Ghassemi, Akram Bin Sediq, Ali Afana, Melike Erol-Kantarci.
 - **[Large Artificial Intelligence Models for Future Wireless Communications](https://arxiv.org/abs/2601.06906)** (Jan 2026): Chong Huang, Gaojie Chen, Pei Xiao, Zhu Han, Rahim Tafazolli.
