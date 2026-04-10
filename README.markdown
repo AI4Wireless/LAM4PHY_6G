@@ -39,12 +39,18 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
-- **[LLM](https://arxiv.org/abs/2604.04028)** (Apr 2026): LLM for channel predictionn.
+- **[LLM](https://arxiv.org/abs/2604.04028)** (Apr 2026): LLM for channel prediction.
  
   Paper Title: `Enhancing 6G Wireless Intelligence: Do LLMs Work for CSI Prediction?`
 
   Paper Authors: `Mohsen Kazemian, Jürgen Jasperneite`
 
+- **[PC-LLM](https://arxiv.org/abs/2603.00474)** (Apr 2026): LLM for Power Control.
+ 
+  Paper Title: `Wireless Power Control Based on Large Language Models`
+
+  Paper Authors: `Jiacheng Wang, Yucheng Sheng, Le Liang, Hao Ye, Shi Jin`
+  
 - **[LLM multi-task](https://ieeexplore.ieee.org/abstract/document/11418598)** (Jan 2026): LLM for Sensing-Aided Communication.
  
   Paper Title: `Large Language Model-Enabled Sensing-Aided Communication`
