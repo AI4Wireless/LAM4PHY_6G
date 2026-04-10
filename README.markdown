@@ -39,11 +39,18 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
-- **[LLM](https://arxiv.org/abs/2604.04028)** (Jan 2026): LLM for channel predictionn.
+- **[LLM](https://arxiv.org/abs/2604.04028)** (Apr 2026): LLM for channel predictionn.
  
   Paper Title: `Enhancing 6G Wireless Intelligence: Do LLMs Work for CSI Prediction?`
 
   Paper Authors: `Mohsen Kazemian, Jürgen Jasperneite`
+
+- **[LLM multi-task](https://ieeexplore.ieee.org/abstract/document/11418598)** (Jan 2026): LLM for Sensing-Aided Communication.
+ 
+  Paper Title: `Large Language Model-Enabled Sensing-Aided Communication`
+
+  Paper Authors: Jifa Zhang; Ruichen Zhang; Na Deng; Chengwen Xing; Nan Zhao; Dusit Niyato; Naofal Al-Dhahir; George K. Karagiannidis`
+
 
 - **[FTAlign-LLM](https://ieeexplore.ieee.org/document/11354487)** (Jan 2026):LMM for channel predictionn Cell-Free mMIMO Systems.
  
