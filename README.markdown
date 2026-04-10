@@ -51,11 +51,17 @@ If there are any omissions in the collection of the papers, please feel free to 
 
   Paper Authors: `Jiacheng Wang, Yucheng Sheng, Le Liang, Hao Ye, Shi Jin`
   
+- **[LLM-GWO](https://ieeexplore.ieee.org/abstract/document/11397770)** (Feb 2026): LLM for Gray Wolf Optimization.
+ 
+  Paper Title: `Large Language Model-Based Gray Wolf Optimization for Near-Field ISAC Networks`
+
+  Paper Authors: `Zhen Chen; Kezhi Wang; Jianqing Li; Xiu Yin Zhang; Kai-Kit Wong`
+  
 - **[LLM multi-task](https://ieeexplore.ieee.org/abstract/document/11418598)** (Jan 2026): LLM for Sensing-Aided Communication.
  
   Paper Title: `Large Language Model-Enabled Sensing-Aided Communication`
 
-  Paper Authors: Jifa Zhang; Ruichen Zhang; Na Deng; Chengwen Xing; Nan Zhao; Dusit Niyato; Naofal Al-Dhahir; George K. Karagiannidis`
+  Paper Authors: `Jifa Zhang; Ruichen Zhang; Na Deng; Chengwen Xing; Nan Zhao; Dusit Niyato; Naofal Al-Dhahir; George K. Karagiannidis`
 
 
 - **[FTAlign-LLM](https://ieeexplore.ieee.org/document/11354487)** (Jan 2026):LMM for channel predictionn Cell-Free mMIMO Systems.
