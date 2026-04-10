@@ -38,7 +38,7 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
-- **[LLM](https://arxiv.org/abs/2604.04028)** (Jan 2026):LLM for channel predictionn.
+- **[LLM](https://arxiv.org/abs/2604.04028)** (Jan 2026): LLM for channel predictionn.
  
   Paper Title: `Enhancing 6G Wireless Intelligence: Do LLMs Work for CSI Prediction?`
 
