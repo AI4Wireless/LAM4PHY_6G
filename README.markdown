@@ -16,6 +16,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
 ## Overview
 - **[Large AI Models for Wireless Physical Layer](https://ieeexplore.ieee.org/document/11440327/)** (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.
+- **[Bridging Large Language Models and 6G Networks: Overview and Open Issues](https://www.preprints.org/manuscript/202603.05643)** (March 2026): Xianke Qiang,Zheng Chang  *,Jianhua Tang,Wei Feng,Chungang Yang,Yan Zhang.
 - **[Large Wireless Foundation Models: Stronger over Bigger](https://arxiv.org/abs/2601.10963)** (Jan 2026): Xiang Cheng, Boxun Liu, Xuanyu Liu, Xuesong Cai.
 - **[Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey](https://arxiv.org/abs/2601.03181)** (Jan 2026): Han Zhang, Mohammad Farzanullah, Mohammad Ghassemi, Akram Bin Sediq, Ali Afana, Melike Erol-Kantarci.
 - **[Large Artificial Intelligence Models for Future Wireless Communications](https://arxiv.org/abs/2601.06906)** (Jan 2026): Chong Huang, Gaojie Chen, Pei Xiao, Zhu Han, Rahim Tafazolli.
