@@ -370,6 +370,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[GFM](https://arxiv.org/abs/2604.07390)** (Apr 2026): Graph Foundation Model for Wireless Resource Allocation.
+ 
+  Paper Title: `A Graph Foundation Model for Wireless Resource Allocation`
+
+  Paper Authors: `Yucheng Sheng, Jiacheng Wang, Le Liang, Hao Ye, Shi Jin`
+
 - **[MCM](https://ieeexplore.ieee.org/abstract/document/11442291)** (Mar 2026): Pre-Trained Large Channel Models for Wireless Communication System.
  
   Paper Title: `Scalable Pre-Trained Large Channel Models for Wireless Communication Systems`
