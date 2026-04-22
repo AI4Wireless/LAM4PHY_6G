@@ -15,7 +15,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 
 
 ## Overview
-- **[Large AI Models for Wireless Physical Layer](https://ieeexplore.ieee.org/document/11440327/)** (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.
+- **[Large AI Models for Wireless Physical Layer](https://ieeexplore.ieee.org/document/11440327/) (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.**
 
 - **[Generative and Large AI Models for 6G Wireless Networks: The Optimization Perspective](https://www.sciencedirect.com/science/article/pii/S2095809926001839)** (Apr 2026): Yong Zhou, Ting Wang, Youlong Wu, Puyu Cai, Fuhui Zhou, Yuanming Shi.
 - **[Bridging Large Language Models and 6G Networks: Overview and Open Issues](https://www.preprints.org/manuscript/202603.05643)** (March 2026): Xianke Qiang,Zheng Chang,Jianhua Tang,Wei Feng,Chungang Yang,Yan Zhang.
