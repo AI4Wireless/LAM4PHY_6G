@@ -445,12 +445,6 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Sixu Xiao, Yong Zeng, Haotian Rong, Yanqun Tang`
 
-- **[WirelessJEPA](https://arxiv.org/abs/2601.20190)** (Jan 2026): Wireless FM that Uses the Joint Embedding Predictive Architecture.
- 
-  Paper Title: `WirelessJEPA: A Multi-Antenna Foundation Model using Spatio-temporal Wireless Latent Predictions`
-
-  Paper Authors: `Viet Chu, Omar Mashaal, Hatem Abou-Zeid`
-
 - **[HeterCSI](https://www.arxiv.org/abs/2601.18200)** (Jan 2026):  Channel-Adaptive Heterogeneous CSI Foundation Model.
  
   Paper Title: `HeterCSI: Channel-Adaptive Heterogeneous CSI Pretraining Framework for Generalized Wireless Foundation Models`
