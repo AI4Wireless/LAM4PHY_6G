@@ -385,6 +385,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Yucheng Sheng, Jiacheng Wang, Le Liang, Hao Ye, Shi Jin`
 
+- **[JEPA-MSAC](https://arxiv.org/abs/2603.29796)** (Mar 2026): Wireless foundation for Multimodal Sensing-Assisted Communications.
+ 
+  Paper Title: `JEPA-MSAC: A Joint-Embedding Predictive Architecture for Multimodal Sensing-Assisted Communications`
+
+  Paper Authors: `Can Zheng, Jiguang He, Guofa Cai, Nannan Li, Mehdi Bennis, Henk Wymeersch, Merouane Debbah`
+
 - **[WiMamba](https://arxiv.org/abs/2603.26367)** (Mar 2026): Wireless foundation model built upon the recently proposed Mamba architecture.
  
   Paper Title: `WiMamba: Linear-Scale Wireless Foundation Model`
