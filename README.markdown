@@ -39,6 +39,13 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[LLM-Viterbi](https://arxiv.org/abs/2604.19035)** (Apr 2026): LLM for Decoding.
+ 
+  Paper Title: `LLM-Viterbi: Semantic-Aware Decoding for Convolutional Codes`
+
+  Paper Authors: `Zhengtong Li, Chentao Yue, Jiafu Hao, Branka Vucetic, Yonghui Li`
+
+  
 - **[LLM](https://arxiv.org/abs/2604.04028)** (Apr 2026): LLM for channel prediction.
  
   Paper Title: `Enhancing 6G Wireless Intelligence: Do LLMs Work for CSI Prediction?`
