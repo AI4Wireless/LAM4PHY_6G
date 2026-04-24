@@ -41,6 +41,13 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[LLM-AUG](https://arxiv.org/abs/2604.17770)** (Apr 2026): LLM for Wireless Data Augmentation.
+ 
+  Paper Title: `LLM-AUG: Robust Wireless Data Augmentation with In-Context Learning in Large Language Models`
+
+  Paper Authors: `Pranshav Gajjar、Manan Tiwari、Sayanta Seth、Vijay K. Shah`
+
+
 - **[LLM-Viterbi](https://arxiv.org/abs/2604.19035)** (Apr 2026): LLM for Decoding.
  
   Paper Title: `LLM-Viterbi: Semantic-Aware Decoding for Convolutional Codes`
