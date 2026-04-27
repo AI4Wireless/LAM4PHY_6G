@@ -41,6 +41,14 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+
+- **[MambaCSP](https://arxiv.org/abs/2604.21957)** (Apr 2026): Hardware-Efficient MambaCSP for Channel Prediction.
+ 
+  Paper Title: `MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction`
+
+  Paper Authors: `Aladin Djuhera, Haris Gacanin, Holger Boche`
+
+
 - **[LLM-AUG](https://arxiv.org/abs/2604.17770)** (Apr 2026): LLM for Wireless Data Augmentation.
  
   Paper Title: `LLM-AUG: Robust Wireless Data Augmentation with In-Context Learning in Large Language Models`
