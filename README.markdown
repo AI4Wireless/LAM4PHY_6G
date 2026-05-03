@@ -41,6 +41,12 @@ If there are any omissions in the collection of the papers, please feel free to 
   
 ## Pre-trained LAMs
 
+- **[CRS-LLM](https://arxiv.org/abs/2604.27945)** (Apr 2026): GPT for Cooperative Beam Prediction.
+ 
+  Paper Title: `CRS-LLM: Cooperative Beam Prediction with a GPT-Style Backbone and Switch-Gated Fusion`
+
+  Paper Authors: `Fangzhi Li, Cunhua Pan, Hong Ren, Dongming Wang, Jiangzhou Wang`
+  
 
 - **[MambaCSP](https://arxiv.org/abs/2604.21957)** (Apr 2026): Hardware-Efficient MambaCSP for Channel Prediction.
  
