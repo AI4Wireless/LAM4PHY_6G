@@ -399,6 +399,12 @@ If there are any omissions in the collection of the papers, please feel free to 
  
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
+
+- **[AirFM-DDA](https://arxiv.org/abs/2605.00020)** (May 2026): Foundation Model for Air-Interface in the Delay-Doppler-Angle Domain.
+ 
+  Paper Title: `AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G`
+
+  Paper Authors: `Kejia Bian, Meixia Tao, Jianhua Mo, Zhiyong Chen, Leyan Chen`
  
 - **[GFM](https://arxiv.org/abs/2604.07390)** (Apr 2026): Graph Foundation Model for Wireless Resource Allocation.
  
