@@ -400,6 +400,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[3D-RoPE](https://arxiv.org/abs/2605.00968)** (May 2026): Physics-Aligned Rotary Positional Encoding.
+ 
+  Paper Title: `Adaptive 3D-RoPE: Physics-Aligned Rotary Positional Encoding for Wireless Foundation Models`
+
+  Paper Authors: `Chenyu Zhang, Xinchen Lyu, Chenshan Ren, Shuhan Liu, Qimei Cui`
+  
 - **[AirFM-DDA](https://arxiv.org/abs/2605.00020)** (May 2026): Foundation Model for Air-Interface in the Delay-Doppler-Angle Domain.
  
   Paper Title: `AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G`
