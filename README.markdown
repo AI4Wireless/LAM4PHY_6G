@@ -400,6 +400,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[oundation Model](https://arxiv.org/abs/2605.07266)** (May 2026): Size of wireless Foundation Model.
+ 
+  Paper Title: `How Big Should a Wireless Foundation Model Be?`
+
+  Paper Authors: `Wei-Lun Cheng, Wanjiun Liao`
+  
 - **[3D-RoPE](https://arxiv.org/abs/2605.00968)** (May 2026): Physics-Aligned Rotary Positional Encoding.
  
   Paper Title: `Adaptive 3D-RoPE: Physics-Aligned Rotary Positional Encoding for Wireless Foundation Models`
