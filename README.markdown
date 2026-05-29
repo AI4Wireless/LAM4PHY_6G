@@ -400,7 +400,15 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
-- **[oundation Model](https://arxiv.org/abs/2605.07266)** (May 2026): Size of wireless Foundation Model.
+
+- **[ComHymba](https://arxiv.org/abs/2605.23468)** (May 2026):  Domain-Informed Foundation Model
+ 
+  Paper Title: `ComHymba: Low-Complexity Domain-Informed Foundation Model for Wireless Communications`
+
+  Paper Authors: `Bowen Yang, Wei Chen, Jiaming Cheng, Bo Ai`
+  
+
+- **[Foundation Model](https://arxiv.org/abs/2605.07266)** (May 2026): Size of wireless Foundation Model.
  
   Paper Title: `How Big Should a Wireless Foundation Model Be?`
 
