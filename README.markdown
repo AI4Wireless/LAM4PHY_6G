@@ -400,7 +400,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[RA-LWLM](https://arxiv.org/abs/2606.01899)** (June 2026):   Retrieval-Augmented In-Context Localization with Wireless Foundation Models
+ 
+  Paper Title: `RA-LWLM: Retrieval-Augmented In-Context Localization with Wireless Foundation Models`
 
+  Paper Authors: `Guangjin Pan, Hui Chen, Hei Victor Cheng, Henk Wymeersch`
+
+  
 - **[ComHymba](https://arxiv.org/abs/2605.23468)** (May 2026):  Domain-Informed Foundation Model
  
   Paper Title: `ComHymba: Low-Complexity Domain-Informed Foundation Model for Wireless Communications`
