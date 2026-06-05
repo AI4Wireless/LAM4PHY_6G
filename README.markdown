@@ -413,6 +413,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Guangjin Pan, Hui Chen, Hei Victor Cheng, Henk Wymeersch`
 
+- **[SpikeWFM](https://arxiv.org/abs/2606.00120)** (May 2026):  Spiking-Aided Wireless Foundation Model
+ 
+  Paper Title: `SpikeWFM: Spiking-Aided Wireless Foundation Model for Robust Channel Prediction`
+
+  Paper Authors: `Liwen Jing, Yisha Lu, Tingting Yang, Li Sun, Yuxuan Shi, Yuwei Wang, Mengfan Zheng, Leiyang Xu`
+  
   
 - **[ComHymba](https://arxiv.org/abs/2605.23468)** (May 2026):  Domain-Informed Foundation Model
  
