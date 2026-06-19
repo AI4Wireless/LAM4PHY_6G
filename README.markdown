@@ -2,7 +2,7 @@
 
 A collection of paper on Large AI Models (LAMs) for wireless physical layer applications, extended from the overview paper by [Jiajia Guo et al](https://ieeexplore.ieee.org/document/11440327/).  
 
-Contributors：[Jiajia Guo](https://jiajiaguo.github.io/),[Tianyue Zheng](https://scholar.google.com/citations?user=A_Xk7NIAAAAJ&hl=zh-CN), [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), .
+Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo),[Tianyue Zheng](https://scholar.google.com/citations?user=A_Xk7NIAAAAJ&hl=zh-CN), [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), .
 If there are any omissions in the collection of the papers, please feel free to contact Jiajia Guo.
 
 ## Table of Contents 
