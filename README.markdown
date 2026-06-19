@@ -401,6 +401,14 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+
+- **[ConsisFormer](https://arxiv.org/abs/2606.19953)** (June 2026):  Compute-Efficient Transformer
+ 
+  Paper Title: `ConsisFormer: Compute-Efficient Transformer for Wireless Foundation Models Based on Channel Consistency`
+
+  Paper Authors: `Yuwei Wang, Li Sun, Tingting Yang, Liwen Jing, Yuxuan Shi, Maged Elkashlan, Mérouane Debbah`
+
+  
 - **[LatentWave](https://arxiv.org/abs/2606.06373)** (June 2026):   JEPA Pretraining for Wireless Foundation Models
  
   Paper Title: `LatentWave: JEPA Pretraining for Wireless Foundation Models`
