@@ -661,6 +661,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Haotian Zhang, Shijian Gao, Xiang Cheng`
   
+- **[CSI-4CAST](https://ieeexplore.ieee.org/abstract/document/11526994)** (Oct 2025):   Wireless Foundation Model for Channel Prediction.
+
+  Paper Title: `CSI-4CAST: A Hybrid Deep Learning Model for CSI Prediction with Comprehensive Robustness and Generalization Testing`([Code](https://github.com/AI4OPT/CSI-4CAST) [Data](https://huggingface.co/CSI-4CAST))
+
+  Paper Authors: `Sikai Cheng, Reza Zandehshahvar, Haoruo Zhao, Daniel A. Garcia-Ulloa, Alejandro Villena-Rodriguez, Carles Navarro Manchón, Pascal Van Hentenryck`
+  
 - **[MobiGPT](https://arxiv.org/abs/2509.18166)** (Sep 2025):  A unified structure capable of forecasting base station traffic, user app usage, and channel quality.
 
   Paper Title: `MobiGPT: A Foundation Model for Mobile Wireless Networks`
