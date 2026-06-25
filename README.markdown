@@ -49,7 +49,7 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Chunyu Ling, Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin, Shuangfeng Han, Xiaoyun Wang`
 
-- **[CSI-CLIP++](https://arxiv.org/abs/2606.25714)** (June 2026):  Physics-Informed Path-Parametric Learning
+- **[CSI-CLIP++](https://arxiv.org/abs/2606.25714)** (June 2026): Scalable Channel Foundation Model
  
   Paper Title: `CSI-CLIP++: A Scalable Channel Foundation Model for Wireless Communication via CIR-CSI Consistency`
 
