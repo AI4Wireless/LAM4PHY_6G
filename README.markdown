@@ -49,6 +49,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Chunyu Ling, Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin, Shuangfeng Han, Xiaoyun Wang`
 
+- **[CSI-CLIP++](https://arxiv.org/abs/2606.25714)** (June 2026):  Physics-Informed Path-Parametric Learning
+ 
+  Paper Title: `CSI-CLIP++: A Scalable Channel Foundation Model for Wireless Communication via CIR-CSI Consistency`
+
+  Paper Authors: `Jun Jiang, Wenjun Yu, Yunfan Li, Yuan Gao, Shugong Xu`
+
 - **[CMLP](https://arxiv.org/abs/2606.22038)** (June 2026): Use the complex-domain multilayer perceptrons (CMLPs) as spatial and frequency domain learners,
  
   Paper Title: `Full-Domain Coupler: A Wireless Native Neural Backbone for Channel Representation and Deduction`
