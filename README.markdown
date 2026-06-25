@@ -407,6 +407,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Chunyu Ling, Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin, Shuangfeng Han, Xiaoyun Wang`
 
+- **[CMLP](https://arxiv.org/abs/2606.22038)** (June 2026): Use the complex-domain multilayer perceptrons (CMLPs) as spatial and frequency domain learners,
+ 
+  Paper Title: `Full-Domain Coupler: A Wireless Native Neural Backbone for Channel Representation and Deduction`
+
+  Paper Authors: `Zirui Chen, Ziqing Xing, Zhaoyang Zhang, Hongning Ruan, Yuzhi Yang, Zhaohui Yang, Chongwen Huang, Merouane Debbah`
+
 - **[ConsisFormer](https://arxiv.org/abs/2606.19953)** (June 2026):  Compute-Efficient Transformer
  
   Paper Title: `ConsisFormer: Compute-Efficient Transformer for Wireless Foundation Models Based on Channel Consistency`
