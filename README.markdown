@@ -401,6 +401,11 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[HS-PINNnet](https://arxiv.org/abs/2606.23730)** (June 2026):  Physics-Informed Path-Parametric Learning
+ 
+  Paper Title: `Physics-Informed Path-Parametric Learning for Efficient and Lightweight CSI Feedback`
+
+  Paper Authors: `Chunyu Ling, Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin, Shuangfeng Han, Xiaoyun Wang`
 
 - **[ConsisFormer](https://arxiv.org/abs/2606.19953)** (June 2026):  Compute-Efficient Transformer
  
