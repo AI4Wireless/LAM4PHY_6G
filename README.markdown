@@ -49,6 +49,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
   Paper Authors: `Chunyu Ling, Jiajia Guo, Yiming Cui, Chao-Kai Wen, Shi Jin, Shuangfeng Han, Xiaoyun Wang`
 
+- **[Foundation Models](https://arxiv.org/abs/2606.29640)** (June 2026): depth-aware framework improving the inference speed  
+ 
+  Paper Title: `Fast Wireless Foundation Models with Early-Exits`
+
+  Paper Authors: `Omar Mashaal, Hatem Abou-Zeid`
+
 - **[CSI-CLIP++](https://arxiv.org/abs/2606.25714)** (June 2026): Scalable Channel Foundation Model
  
   Paper Title: `CSI-CLIP++: A Scalable Channel Foundation Model for Wireless Communication via CIR-CSI Consistency`
