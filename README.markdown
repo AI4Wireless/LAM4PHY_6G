@@ -105,6 +105,14 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `How Big Should a Wireless Foundation Model Be?`
 
   Paper Authors: `Wei-Lun Cheng, Wanjiun Liao`
+
+
+- **[AWF](https://arxiv.org/abs/2605.26163)** (May 2026): Foundation Model for Adversarial Water-Filling.
+ 
+  Paper Title: `Adversarial Water-Filling: Theory, Algorithms and Foundation Model`
+
+  Paper Authors: `Xindi Tong, Chee Wei Tan, H. Vincent Poor`
+
   
 - **[3D-RoPE](https://arxiv.org/abs/2605.00968)** (May 2026): Physics-Aligned Rotary Positional Encoding.
  
