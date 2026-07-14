@@ -43,6 +43,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+
+- **[LMM-EMM](https://arxiv.org/abs/2607.09795)** (July 2026):  large multimodal model-based environment-aware mobility management
+ 
+  Paper Title: `Large Multimodal Model-Based Environment-Aware Mobility Management`
+
+  Paper Authors: `Seokhyun Jeong, Sangmok Shin, Seungnyun Kim, Jiao Wu, Byonghyo Shim`
+  
 - **[HS-PINNnet](https://arxiv.org/abs/2606.23730)** (June 2026):  Physics-Informed Path-Parametric Learning
  
   Paper Title: `Physics-Informed Path-Parametric Learning for Efficient and Lightweight CSI Feedback`
