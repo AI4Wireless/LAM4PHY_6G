@@ -48,6 +48,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `M3F-UAV: A Missing-Modality Multimodal Foundation Model for Low-Altitude Wireless Sensing`
 
   Paper Authors: `Pengxuan Gao, Kai Ying, Botao Wu, Jianhua Mo, Qingsong Wen`
+
+- **[WiPo](https://ieeexplore.ieee.org/abstract/document/11592763)** (July 2026):  Wireless Cooperative Perception Foundation Model
+ 
+  Paper Title: `WiPo: Wireless Cooperative Perception Foundation Model Empowered Modality-Agnostic Feature Transmission`
+
+  Paper Authors: `Ensong Liu; Rongqing Zhang; Jianan Zhang; Xiang Cheng`
   
 - **[FM-Receiver](https://arxiv.org/abs/2607.12555)** (July 2026):  Foundation Model Enabled Unified Inner and Outer Neural Receiver
  
