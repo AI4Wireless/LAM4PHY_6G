@@ -44,6 +44,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
 
+- **[FM-Receiver](https://arxiv.org/abs/2607.12555)** (July 2026):  Foundation Model Enabled Unified Inner and Outer Neural Receiver
+ 
+  Paper Title: `FM-Receiver: A Foundation Model Enabled Unified Inner and Outer Neural Receiver Towards AI-Native Wireless Communications`
+
+  Paper Authors: `STianyue Zheng, Chao Jiang, Linglong Dai`
+  
 - **[LMM-EMM](https://arxiv.org/abs/2607.09795)** (July 2026):  large multimodal model-based environment-aware mobility management
  
   Paper Title: `Large Multimodal Model-Based Environment-Aware Mobility Management`
