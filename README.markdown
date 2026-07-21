@@ -43,6 +43,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[WFM](https://arxiv.org/abs/2607.16877)** (July 2026):   Hierarchical Wireless Foundation Model
+ 
+  Paper Title: `Hierarchical Wireless Foundation Model for Multi-Task Optimization`
+
+  Paper Authors: `Yangjing Wang, Ouya Wang, Shenglong Zhou, Geoffrey Ye Li`
+
 - **[M3F-UAV](https://arxiv.org/abs/2607.13678)** (July 2026):   Missing-Modality Multimodal Foundation Model for Low-Altitude Wireless Sensing
  
   Paper Title: `M3F-UAV: A Missing-Modality Multimodal Foundation Model for Low-Altitude Wireless Sensing`
