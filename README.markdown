@@ -43,13 +43,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
-- **[JEPA-CFM] (https://arxiv.org/abs/2607.20202)** (July 2026): Joint embedding predictive architecture channel FM for FAS
+- **[JEPA-CFM](https://arxiv.org/abs/2607.20202)** (July 2026): Joint embedding predictive architecture channel FM for FAS
 
   Paper Title: JEPA-CFM: A Joint Embedding Predictive Architecture-based Channel Foundation Model for Robust Fluid Antenna Systems
 
   Paper Authors: Yuan Gao; Yiming Liu; Jun Jiang; Jianbo Du; Shunqing Zhang; Xiaoli Chu; Kai-Kit Wong
 
-- **[WMFM-OOD] (https://arxiv.org/abs/2607.21455)** (July 2026): Out-of-distribution detection framework for wireless multimodal FM
+- **[WMFM-OOD](https://arxiv.org/abs/2607.21455)** (July 2026): Out-of-distribution detection framework for wireless multimodal FM
 
   Paper Title: Out-of-Distribution Detection in Wireless Multimodal Foundation Models for 6G ISAC
 
