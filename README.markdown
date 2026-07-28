@@ -43,6 +43,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[FM](https://arxiv.org/abs/2607.22204)** (July 2026): Foundation Model for Cross-Band CSI Reconstruction
+
+  Paper Title: A Foundation Model for Cross-Band CSI Reconstruction
+
+  Paper Authors: Hongpu Zhang, Shu Sun, Ruifeng Gao, Tongjia Zhang, Feng Yang
+  
 - **[JEPA-CFM](https://arxiv.org/abs/2607.20202)** (July 2026): Joint embedding predictive architecture channel FM for FAS
 
   Paper Title: JEPA-CFM: A Joint Embedding Predictive Architecture-based Channel Foundation Model for Robust Fluid Antenna Systems
