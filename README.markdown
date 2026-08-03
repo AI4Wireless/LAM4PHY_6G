@@ -43,6 +43,13 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[WALoMA](https://arxiv.org/abs/2607.25763)** (July 2026): Multitask Wireless Foundation Model
+
+  Paper Title: WALoMA: A Multitask Wireless Foundation Model via Adaptive Low-Rank Masked Autoencoders
+
+  Paper Authors: Madi Makin, Asmaa Abdallah, Abdulkadir Celik, Ahmed M. Eltawil
+
+  
 - **[FM](https://arxiv.org/abs/2607.22204)** (July 2026): Foundation Model for Cross-Band CSI Reconstruction
 
   Paper Title: A Foundation Model for Cross-Band CSI Reconstruction
