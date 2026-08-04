@@ -565,6 +565,13 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 ## Pre-trained LAMs
 
+- **[SecureISAC-LLM](https://ieeexplore.ieee.org/abstract/document/11627687)** (July 2026): Large Language Model-Empowered User Association and Secure Beamforming 
+ 
+  Paper Title: `Large Language Model-Empowered User Association and Secure Beamforming for Multi-Cell ISAC Networks`
+
+  Paper Authors: `Chen Li; Fengchao Zhu; Ying Zhang; Feifei Gao`
+  
+
 - **[CRS-LLM](https://arxiv.org/abs/2604.27945)** (Apr 2026): GPT for Cooperative Beam Prediction.
  
   Paper Title: `CRS-LLM: Cooperative Beam Prediction with a GPT-Style Backbone and Switch-Gated Fusion`
