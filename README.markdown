@@ -43,6 +43,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[MultiPathFormer](https://arxiv.org/abs/2608.05076)** (Aug 2026):  Multipath Wireless Propagation Foundation Model
+
+  Paper Title: MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation
+  
+  Paper Authors: Blessed Guda, Kayley Sze, Carlee Joe-Wong
+
 - **[WALoMA](https://arxiv.org/abs/2607.25763)** (July 2026): Multitask Wireless Foundation Model
 
   Paper Title: WALoMA: A Multitask Wireless Foundation Model via Adaptive Low-Rank Masked Autoencoders
