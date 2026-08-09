@@ -43,6 +43,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[Radio-FM](https://arxiv.org/abs/2608.05793)** (Aug 2026): r Radio Signal Representation
+  
+  Paper Title: Radio-FM: A Foundation Model for Radio Signal Representation Learning and Its Applications
+  
+  Paper Authors: Jinchao Zhou, Wupeng Xie, Zhuangzhi Chen, Yao Lu, Qi Xuan, Yun Lin, Guan Gui
+  
 - **[MultiPathFormer](https://arxiv.org/abs/2608.05076)** (Aug 2026):  Multipath Wireless Propagation Foundation Model
 
   Paper Title: MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation
