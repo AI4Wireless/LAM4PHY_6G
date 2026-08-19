@@ -44,6 +44,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[EMWM](https://arxiv.org/abs/2608.17769)** (Aug 2026): Electromagnetic World Model
+  
+  Paper Title: Electromagnetic World Model for 6G: A Unified Framework for Joint Environment Reconstruction and Channel Prediction
+  
+  Paper Authors: Yizhu Zhao, Li Yu, Jianhua Zhang, Yuxiang Zhang, Zhen Zhang, Guangyi Liu
+  
 - **[Radio-FM](https://arxiv.org/abs/2608.05793)** (Aug 2026): Radio Signal Representation
   
   Paper Title: Radio-FM: A Foundation Model for Radio Signal Representation Learning and Its Applications
