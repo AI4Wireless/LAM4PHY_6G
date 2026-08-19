@@ -44,6 +44,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[Learnware](https://arxiv.org/abs/2608.177604)** (Aug 2026):  Learnware for CSI Feedback
+  
+  Paper Title: Learnware for CSI Feedback: Scene-specific Small Models Can Do Big
+  
+  Paper Authors: Xiangyi Li, Jiajia Guo, Chao-Kai Wen, Xin Geng, Shi Jin, Zhi-Hua Zhou
+  
 - **[Channel2World](https://arxiv.org/abs/2608.17544)** (Aug 2026): Wireless Foundation Model for RF Environment Representation
   
   Paper Title: Channel2World: A Wireless Foundation Model for RF Environment Representation
