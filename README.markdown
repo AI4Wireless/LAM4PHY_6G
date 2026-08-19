@@ -607,6 +607,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title: `Large Language Model-Empowered User Association and Secure Beamforming for Multi-Cell ISAC Networks`
 
   Paper Authors: `Chen Li; Fengchao Zhu; Ying Zhang; Feifei Gao`
+
+- **[LSMs]https://ieeexplore.ieee.org/document/11571121)** (May 2026): GPT for Spectrum Activity Forecasting.
+ 
+  Paper Title: `Large Spectrum Models (LSMs): Decoder-Only Transformer-Powered Spectrum Activity Forecasting via Tokenized RF Data`
+
+  Paper Authors: `Mohammad Mosiur Lunar; Mehmet C. Vuran`
   
 
 - **[CRS-LLM](https://arxiv.org/abs/2604.27945)** (Apr 2026): GPT for Cooperative Beam Prediction.
