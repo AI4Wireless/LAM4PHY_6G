@@ -17,6 +17,7 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Overview
 - **[Large AI Models for Wireless Physical Layer](https://ieeexplore.ieee.org/document/11440327/) (Aug 2025): Jiajia Guo, Yiming Cui, Shi Jin, and Jun Zhang.**
 - **[Foundation Models for Wireless Communications: From PHY Intelligence to Network Autonomy](https://arxiv.org/abs/2606.06239) (June 2026): Le Liang, Jiajia Guo, Jun Zhang, Chan-Byoung Chae, Lu Lu, Shugong Xu, Octavia A. Dobre, Shi Jin, and Geoffrey Ye Li.**
+- **[Wireless Physical-Layer Foundation Models: Architectures, Learning Paradigms, Applications, and Deployment](https://arxiv.org/abs/2608.20486)** (Aug 2026): Mohammad Cheraghinia, Davide Buffelli, Liu Li, Mohammad Alhellani, Jaron Fontaine, Sattar Vakili, Mamoun Guenach, Eli De Poorter, Adnan Shahid.
 - **[6G Native AI and Channel Foundation Models](https://arxiv.org/abs/2608.14591)** (Aug 2026): Shugong Xu, Jun Jiang, Yuan Gao.
 - **[Towards CSI-Native Foundation Models: A Channel-Adaptive Roadmap for 6G](https://arxiv.org/abs/2606.20670)** (June 2026): Chenyu Zhang, Xinchen Lyu, Chenshan Ren, Shuhan Liu, Qimei Cui.
 - **[Generative and Large AI Models for 6G Wireless Networks: The Optimization Perspective](https://www.sciencedirect.com/science/article/pii/S2095809926001839)** (Apr 2026): Yong Zhou, Ting Wang, Youlong Wu, Puyu Cai, Fuhui Zhou, Yuanming Shi.
