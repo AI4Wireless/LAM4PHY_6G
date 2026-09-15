@@ -604,6 +604,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 ## Pre-trained LAMs
 
+- **[CoFi-CLM](https://arxiv.org/abs/2609.15865)** (Sept 2026):  Channel Language Model for Finite-Bit CSI Feedback
+ 
+  Paper Title: `CoFi-CLM: A Coarse-to-Fine Channel Language Model for Finite-Bit CSI Feedback`
+
+  Paper Authors: `Chao Zhang, Cheng Luo, Luping Xiang, Kun Yang`
+  
 - **[SecureISAC-LLM](https://ieeexplore.ieee.org/abstract/document/11627687)** (July 2026): Large Language Model-Empowered User Association and Secure Beamforming 
  
   Paper Title: `Large Language Model-Empowered User Association and Secure Beamforming for Multi-Cell ISAC Networks`
