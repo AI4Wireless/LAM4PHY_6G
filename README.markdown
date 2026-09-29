@@ -604,6 +604,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 ## Pre-trained LAMs
 
+- **[LLMBP-Lite](https://arxiv.org/abs/2609.35459)** (Sept 2026):  Lightweight Language Model forVision-Aided Beam Prediction
+ 
+  Paper Title: `Compressed LLM Reprogramming for Vision-Aided Beam Prediction in Vehicular Networks`
+
+  Paper Authors: `Kai Dong, Lei Wang, Changyi Li, Sergiy A. Vorobyov, Stefan Werner`
+  
 - **[CoFi-CLM](https://arxiv.org/abs/2609.15865)** (Sept 2026):  Channel Language Model for Finite-Bit CSI Feedback
  
   Paper Title: `CoFi-CLM: A Coarse-to-Fine Channel Language Model for Finite-Bit CSI Feedback`
