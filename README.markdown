@@ -46,6 +46,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[Agentic RF Intelligence](https://arxiv.org/abs/2610.03139)** (Aug 2026):   Multi-Timescale 6G Sensing and Reasoning
+  
+  Paper Title :Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models
+  
+  Paper Authors: Jaron Fontaine, Jelle De Moerloose, Xander Vanparys, Anton Lambrecht, Eli De Poorter, Adnan Shahid
+  
 - **[Learnware](https://arxiv.org/abs/2608.177604)** (Aug 2026):  Learnware for CSI Feedback
   
   Paper Title: Learnware for CSI Feedback: Scene-specific Small Models Can Do Big
