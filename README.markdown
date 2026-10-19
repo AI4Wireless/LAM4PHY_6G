@@ -51,6 +51,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title : LWMa: Distributed Deployment of an Angle-Delay-Domain Wireless Foundation Model for Multiple Tasks
   
   Paper Authors: Zhizhen Ren, Xudong Zhang, Jingbo Tan, Jintao Wang
+
+- **[LWM-TF](https://arxiv.org/abs/2610.21013)** (Oct 2026): a 9.58M-parameter factorized masked autoencoder pre-trained on complex 5G NR uplink grids taken after the FFT and before channel estimation
+  
+  Paper Title : LWM-TF: A Wireless Foundation Model on 5G NR Time-Frequency Resource Grids
+  
+  Paper Authors: Namhyun Kim, Sadjad Alikhani, Ahmed Alkhateeb
   
 - **[Agentic RF Intelligence](https://arxiv.org/abs/2610.03139)** (Oct 2026):   Multi-Timescale 6G Sensing and Reasoning
   
