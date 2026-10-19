@@ -46,9 +46,15 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[LWMa](https://arxiv.org/abs/2610.23084)** (Aug 2026):  an angle-delay-domain large wireless model for multiple tasks
+  
+  Paper Title : LWMa: Distributed Deployment of an Angle-Delay-Domain Wireless Foundation Model for Multiple Tasks
+  
+  Paper Authors: Zhizhen Ren, Xudong Zhang, Jingbo Tan, Jintao Wang
+  
 - **[Agentic RF Intelligence](https://arxiv.org/abs/2610.03139)** (Aug 2026):   Multi-Timescale 6G Sensing and Reasoning
   
-  Paper Title :Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models
+  Paper Title : Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models
   
   Paper Authors: Jaron Fontaine, Jelle De Moerloose, Xander Vanparys, Anton Lambrecht, Eli De Poorter, Adnan Shahid
   
