@@ -57,6 +57,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
   Paper Title : LWM-TF: A Wireless Foundation Model on 5G NR Time-Frequency Resource Grids
   
   Paper Authors: Namhyun Kim, Sadjad Alikhani, Ahmed Alkhateeb
+
+- **[CARP](https://ieeexplore.ieee.org/abstract/document/11733883)** (Oct 2026): a consistency-aware robust pretraining model that learns universal and transferable channel state information representations
+  
+  Paper Title : CARP: Consistency-Aware Robust Pretraining for Multi-Task Wireless Foundation Model
+  
+  Paper Authors: Yuxuan Shi; Tingting Yang; Liwen Jing; Ce Zheng; Yuwei Wang; Li Sun; Yongpeng Wu
   
 - **[Agentic RF Intelligence](https://arxiv.org/abs/2610.03139)** (Oct 2026):   Multi-Timescale 6G Sensing and Reasoning
   
