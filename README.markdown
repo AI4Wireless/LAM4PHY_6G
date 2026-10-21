@@ -628,6 +628,12 @@ Native LAMs are built from scratch for wireless physical layer tasks, using exte
 
 ## Pre-trained LAMs
 
+- **[UniSF-LLM](https://ieeexplore.ieee.org/abstract/document/11739395)** (Oct 2026):  Unified Spatial-Frequency Adapter for Channel Prediction
+ 
+  Paper Title: `Enhancing LLM With Unified Spatial-Frequency Adapter for Channel Prediction`
+
+  Paper Authors: `Yichen Han; Xiangpu Liu; Mingkai Liu; Bin Zheng; Xin Zhou; Fengkui Gong`
+  
 - **[LLMBP-Lite](https://arxiv.org/abs/2609.35459)** (Sept 2026):  Lightweight Language Model forVision-Aided Beam Prediction
  
   Paper Title: `Compressed LLM Reprogramming for Vision-Aided Beam Prediction in Vehicular Networks`
