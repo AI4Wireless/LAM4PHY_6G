@@ -46,6 +46,12 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[RFM](https://arxiv.org/abs/2610.32542)** (Oct 2026):   Configuration-Enriched Radio Foundation Models
+  
+  Paper Title : Beyond Channel Data: Configuration-Enriched Radio Foundation Models
+  
+  Paper Authors:Shrihari Vasudevan、HG Ranjani、Raaghul Ranganathan、Satwik Sahu、Thirumaran Ekambaram
+  
 - **[LWMa](https://arxiv.org/abs/2610.23084)** (Oct 2026):  an angle-delay-domain large wireless model for multiple tasks
   
   Paper Title : LWMa: Distributed Deployment of an Angle-Delay-Domain Wireless Foundation Model for Multiple Tasks
