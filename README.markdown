@@ -46,11 +46,17 @@ If there are any omissions in the collection of the papers, please feel free to 
 ## Native LAMs
 Native LAMs are built from scratch for wireless physical layer tasks, using extensive wireless datasets and Transformer architectures. Key examples include:
 
+- **[ExtLWMConnector-LLM](https://arxiv.org/abs/2610.34285)** (Oct 2026):  adapt to different MA configurations without structural redesign
+  
+  Paper Title : Synergizing Wireless Foundation Models and LLMs: A Multi-Task Framework for MA Systems
+  
+  Paper Authors: Haocheng Zhang, Yang Liu, Mengzhen Liu, Qingqing Wu, Qingjiang Shi, and Wei Wang
+  
 - **[RFM](https://arxiv.org/abs/2610.32542)** (Oct 2026):   Configuration-Enriched Radio Foundation Models
   
   Paper Title : Beyond Channel Data: Configuration-Enriched Radio Foundation Models
   
-  Paper Authors:Shrihari Vasudevan、HG Ranjani、Raaghul Ranganathan、Satwik Sahu、Thirumaran Ekambaram
+  Paper Authors: Shrihari Vasudevan、HG Ranjani、Raaghul Ranganathan、Satwik Sahu、Thirumaran Ekambaram
   
 - **[LWMa](https://arxiv.org/abs/2610.23084)** (Oct 2026):  an angle-delay-domain large wireless model for multiple tasks
   
